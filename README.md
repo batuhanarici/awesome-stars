@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş  
-> 🕐 Son güncelleme: 08 June 2026 &nbsp;|&nbsp; 📦 Toplam: 80 repo
+> 🕐 Son güncelleme: 09 June 2026 &nbsp;|&nbsp; 📦 Toplam: 80 repo
 
 ## İçindekiler
 
