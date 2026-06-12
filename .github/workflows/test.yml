@@ -1,18 +1,36 @@
-name: Test Gemini
-
+name: Test Gemini Key
 on:
   workflow_dispatch:
-
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Test Gemini API
+      - name: Check Gemini key and models
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          response=$(curl -s -w "\nHTTP_STATUS:%{http_code}" \
+          echo "=== Model listesi ==="
+          curl -s "https://generativelanguage.googleapis.com/v1beta/models?key=$GEMINI_API_KEY" \
+            | python3 -c "
+import sys,json
+d=json.load(sys.stdin)
+if 'error' in d:
+    print('HATA:', d['error'].get('message','bilinmiyor'), '| Code:', d['error'].get('code'))
+else:
+    models=[m['name'] for m in d.get('models',[])[:5]]
+    print('OK - Modeller:', models)
+"
+          echo "=== Kısa generate test ==="
+          curl -s -o /tmp/r.json -w "HTTP_%{http_code}" \
             "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GEMINI_API_KEY" \
             -H "Content-Type: application/json" \
-            -d '{"contents":[{"parts":[{"text":"Merhaba de"}]}]}')
-          echo "$response"
+            -d '{"contents":[{"parts":[{"text":"Merhaba, sadece OK yaz"}]}]}'
+          echo ""
+          python3 -c "
+import json
+d=json.load(open('/tmp/r.json'))
+if 'error' in d:
+    print('HATA:', d['error'].get('message'), '| Code:', d['error'].get('code'))
+else:
+    print('YANIT:', d['candidates'][0]['content']['parts'][0]['text'][:50])
+" 2>/dev/null || cat /tmp/r.json
