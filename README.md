@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **11 June 2026** &nbsp;|&nbsp; 📦 Toplam: **80 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **12 June 2026** &nbsp;|&nbsp; 📦 Toplam: **81 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 16 repo
+- [🤖 AI & Agents](#) — 17 repo
 - [🎯 Skills & Prompts](#) — 10 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 6 repo
@@ -27,6 +27,7 @@
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | Çevik, AI güdümlü yazılım geliştirme için öncü metodoloji (BMAD Metodu). | `JavaScript` | ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C4EFF?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-0099FF?style=flat-square&logoColor=white) ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat-square&logoColor=white) |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | Proje başlangıç süreçlerini otomatikleştiren bootstrap aracı. | `Python` | ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C4EFF?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logoColor=white) |
 | [google/skills](https://github.com/google/skills) | Google ürünleri ve teknolojileri için hazırlanmış AI ajan skill'leri. | `Python` | ![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat-square&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C4EFF?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | `Python` | — |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | Tek komutla AI kodlama ajanlarını kullanarak herhangi bir web sitesini klonla. | `TypeScript` | ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C4EFF?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logoColor=white) |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Microsoft'un açık kaynaklı, sınır sesli AI platformu. | `Python` | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C4EFF?style=flat-square&logoColor=white) |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Frontend uzmanından red team'e kadar tam bir AI ajans kadrosu. | `Shell` | ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C4EFF?style=flat-square&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-0099FF?style=flat-square&logoColor=white) |
