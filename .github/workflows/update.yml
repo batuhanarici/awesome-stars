@@ -19,6 +19,24 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Test Gemini API
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          echo "=== Gemini API testi ==="
+          curl -s -o /tmp/g.json -w "HTTP_%{http_code}\n" \
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GEMINI_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d '{"contents":[{"parts":[{"text":"Say only: WORKS"}]}]}'
+          python3 -c "
+import json
+d=json.load(open('/tmp/g.json'))
+if 'error' in d:
+    print('HATA:', d['error'].get('code'), d['error'].get('message',''))
+else:
+    print('OK:', d['candidates'][0]['content']['parts'][0]['text'][:30])
+" 2>/dev/null || cat /tmp/g.json
+
       - name: Fetch starred repos and generate README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
