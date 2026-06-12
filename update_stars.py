@@ -2,9 +2,9 @@ import os, json, datetime, time
 from urllib.request import urlopen, Request
 from urllib.error import HTTPError
 
-TOKEN    = os.environ["GH_TOKEN"]
-USER     = os.environ["GH_USER"]
-CLAUDE   = os.environ.get("ANTHROPIC_API_KEY", "")
+TOKEN      = os.environ["GH_TOKEN"]
+USER       = os.environ["GH_USER"]
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 HEADERS = {
     "Authorization": f"token {TOKEN}",
@@ -35,14 +35,15 @@ try:
 except:
     cache = {}
 
-# ── Claude API ile meta üret ─────────────────────────────────────────
-def claude_meta(repo):
-    if not CLAUDE:
+# ── Gemini API ile meta üret ─────────────────────────────────────────
+def gemini_meta(repo):
+    if not GEMINI_KEY:
         return None
-    name  = repo["full_name"]
-    desc  = repo.get("description") or ""
-    lang  = repo.get("language") or ""
+    name   = repo["full_name"]
+    desc   = repo.get("description") or ""
+    lang   = repo.get("language") or ""
     topics = ", ".join(repo.get("topics") or [])
+
     prompt = f"""GitHub reposu hakkında bilgi:
 - Repo: {name}
 - Açıklama (EN): {desc}
@@ -58,46 +59,39 @@ Lütfen YALNIZCA şu JSON formatında yanıt ver, başka hiçbir şey yazma:
 tools için sadece şu listeden seç (uygun olanları): Claude Code, Cursor, Windsurf, VS Code, Gemini CLI, Codex, Terminal, Google Colab, Copilot, MCP, Tauri, Electron, Flutter, Docker, Ollama, LM Studio, API, macOS, Windows, Xcode, Standalone, Genel Referans"""
 
     body = json.dumps({
-        "model": "claude-sonnet-4-6",
-        "max_tokens": 300,
-        "messages": [{"role": "user", "content": prompt}]
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 300}
     }).encode()
-    req = Request(
-        "https://api.anthropic.com/v1/messages",
-        data=body,
-        headers={
-            "x-api-key": CLAUDE,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json"
-        }
-    )
+
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+    req = Request(url, data=body, headers={"Content-Type": "application/json"})
     try:
         with urlopen(req, timeout=20) as r:
             resp = json.loads(r.read())
-        text = resp["content"][0]["text"].strip()
-        # JSON'u parse et
+        text = resp["candidates"][0]["content"]["parts"][0]["text"].strip()
         start = text.find("{")
         end   = text.rfind("}") + 1
         return json.loads(text[start:end])
     except Exception as e:
-        print(f"  ⚠️  Claude API hatası ({repo['full_name']}): {e}")
+        print(f"  ⚠️  Gemini API hatası ({repo['full_name']}): {e}")
         return None
 
 # ── Her repo için meta al (önbellek öncelikli) ───────────────────────
+new_count = 0
 for r in repos:
     key = r["full_name"]
     if key not in cache:
         print(f"  🤖 Meta üretiliyor: {key}")
-        meta = claude_meta(r)
-        if meta:
-            cache[key] = meta
-            time.sleep(0.3)   # rate limit
-        else:
-            # Claude yoksa veya hata varsa İngilizce açıklamayı koy
-            cache[key] = {
-                "tr": (r.get("description") or "—"),
-                "tools": []
-            }
+        meta = gemini_meta(r)
+        cache[key] = meta if meta else {
+            "tr": (r.get("description") or "—"),
+            "tools": []
+        }
+        new_count += 1
+        time.sleep(0.4)
+
+if new_count:
+    print(f"✅ {new_count} yeni repo için meta üretildi.")
 
 # Önbelleği kaydet
 with open(CACHE_FILE, "w", encoding="utf-8") as f:
@@ -110,7 +104,7 @@ CATEGORIES = [
         "goose","ownpilot","wrongstack","openjarvis","vibevoice","viбevoice",
         "agent-reach","career-ops","agency-agents","ai-agent-team","bmad",
         "ai-website-cloner","vibe-kanban","gpt-oss","baguette","project-bootstrap",
-        "open-jarvis","google/skills","microsoft/vibevoice"
+        "open-jarvis","google/skills","microsoft/vibevoice","moneyprinterturbo"
     ]),
     ("🎯 Skills & Prompts", [
         "agents.md","karpathy-skills","frontend-design-toolkit",
@@ -124,7 +118,7 @@ CATEGORIES = [
     ]),
     ("📱 Mobile & Cross-Platform", [
         "localsend","telegram-drive","dev-manager-desktop","opennow",
-        "openwa","pear-desktop"
+        "openwa","pear-desktop","mobile-system-design"
     ]),
     ("🎵 Medya, Ses & Video", [
         "voxcpm","voicebox","voice-pro","gpt-sovits","vidbee",
@@ -150,10 +144,10 @@ CATEGORIES = [
 def categorize(repo):
     full   = repo["full_name"].lower()
     topics = " ".join(repo.get("topics") or []).lower()
+    desc   = (repo.get("description") or "").lower()
     for cat_name, keywords in CATEGORIES:
         if any(kw.lower() in full for kw in keywords):
             return cat_name
-    # topics ile fallback
     if any(k in topics for k in ["agent","llm","ai","gpt","claude","gemini","copilot"]):
         return "🤖 AI & Agents"
     if any(k in topics for k in ["macos","swiftui","mac-app"]):
@@ -166,8 +160,6 @@ def categorize(repo):
         return "📋 Prodüktivite & Self-Hosted"
     if any(k in topics for k in ["security","osint","pentest","ctf"]):
         return "⚙️ Yazılım Geliştirme & Güvenlik"
-    # Dil + owner dilinden Türkçe tespiti (basit)
-    desc = (repo.get("description") or "").lower()
     if any(k in desc for k in ["türk","turkish","türkçe","istanbul","ankara"]):
         return "🇹🇷 Türkçe Projeler"
     return "🗂️ Diğer"
@@ -229,8 +221,7 @@ for cat in order:
     ]
     for r in sorted(rlist, key=lambda x: x["full_name"].lower()):
         meta  = cache.get(r["full_name"], {})
-        desc  = meta.get("tr") or (r.get("description") or "—")
-        desc  = desc.replace("|","\\|")
+        desc  = (meta.get("tr") or r.get("description") or "—").replace("|","\\|")
         lang  = r.get("language") or "N/A"
         tools = meta.get("tools", [])
         lines.append(f"| [{r['full_name']}]({r['html_url']}) | {desc} | `{lang}` | {badges(tools)} |")

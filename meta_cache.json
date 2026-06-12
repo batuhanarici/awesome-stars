@@ -1,16 +1,4 @@
 {
-  "harry0703/MoneyPrinterTurbo": {
-    "tr": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-    "tools": []
-  },
-  "tddworks/baguette": {
-    "tr": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
-    "tools": []
-  },
-  "sarisen/x-bookmark-manager": {
-    "tr": "—",
-    "tools": []
-  },
   "microsoft/coreutils": {
     "tr": "Coreutils for Windows: Installer & Packaging",
     "tools": []
@@ -321,6 +309,18 @@
   },
   "openai/gpt-oss": {
     "tr": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+    "tools": []
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "tr": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "tools": []
+  },
+  "tddworks/baguette": {
+    "tr": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
+    "tools": []
+  },
+  "sarisen/x-bookmark-manager": {
+    "tr": "—",
     "tools": []
   }
 }
