@@ -1,1 +1,354 @@
-{}
+{
+  "alicankiraz1/CodexQB": {
+    "tr": "CodexQB is a Codex plugin that packages a three-step project planning workflow as a reusable skill.",
+    "tools": []
+  },
+  "NVIDIA/SkillSpector": {
+    "tr": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "tools": []
+  },
+  "safishamsi/graphify": {
+    "tr": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "tools": []
+  },
+  "garrytan/gstack": {
+    "tr": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "tools": []
+  },
+  "refactoringhq/tolaria": {
+    "tr": "Desktop app to manage markdown knowledge bases",
+    "tools": []
+  },
+  "code-yeongyu/oh-my-openagent": {
+    "tr": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+    "tools": []
+  },
+  "addyosmani/agent-skills": {
+    "tr": "Production-grade engineering skills for AI coding agents.",
+    "tools": []
+  },
+  "harry0703/MoneyPrinterTurbo": {
+    "tr": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "tools": []
+  },
+  "tddworks/baguette": {
+    "tr": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
+    "tools": []
+  },
+  "sarisen/x-bookmark-manager": {
+    "tr": "—",
+    "tools": []
+  },
+  "microsoft/coreutils": {
+    "tr": "Coreutils for Windows: Installer & Packaging",
+    "tools": []
+  },
+  "aaif-goose/goose": {
+    "tr": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "tools": []
+  },
+  "agentsmd/agents.md": {
+    "tr": "AGENTS.md — a simple, open format for guiding coding agents",
+    "tools": []
+  },
+  "opendataloader-project/opendataloader-pdf": {
+    "tr": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "tools": []
+  },
+  "weeeBox/mobile-system-design": {
+    "tr": "A simple framework for mobile system design interviews",
+    "tools": []
+  },
+  "umitaltinozzz/twitter-archive": {
+    "tr": "Self-hosted Twitter bookmarks and likes archive with full-text search and media download - Next.js, SQLite",
+    "tools": []
+  },
+  "saidsurucu/yargi-mcp": {
+    "tr": "MCP Server For Turkish Legal Databases",
+    "tools": []
+  },
+  "marktext/marktext": {
+    "tr": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "tools": []
+  },
+  "DontFuckMyCode/dfmc": {
+    "tr": "—",
+    "tools": []
+  },
+  "shiiraz/clicklight-windows": {
+    "tr": "Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility.",
+    "tools": []
+  },
+  "microsoft/microsoft-ui-reactor": {
+    "tr": "Reactor is an experimental set of extensions to WinUI",
+    "tools": []
+  },
+  "CodeByPinar/bakiyedefter-pos": {
+    "tr": "Küçük işletmeler için tasarlanmış modern offline-first finansal operasyon platformu. Veresiye, cari hesap, tahsilat ve POS süreçlerini tek merkezde yönetir.",
+    "tools": []
+  },
+  "ownpilot/OwnPilot": {
+    "tr": "Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support.",
+    "tools": []
+  },
+  "WrongStack/WrongStack": {
+    "tr": "A CLI AI coding agent that runs in your terminal.",
+    "tools": []
+  },
+  "ersinkoc/FluidFlow": {
+    "tr": "Sketch to App",
+    "tools": []
+  },
+  "siteboon/claudecodeui": {
+    "tr": "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.",
+    "tools": []
+  },
+  "kemalersin/kurtarma-plani": {
+    "tr": "Borçları kayıt altına alan, gelir-gider dengesini izleyen ve analiz eden tek dosyalık statik SPA.",
+    "tools": []
+  },
+  "open-jarvis/OpenJarvis": {
+    "tr": "Personal AI, On Personal Devices",
+    "tools": []
+  },
+  "google/skills": {
+    "tr": "Agent Skills for Google products and technologies",
+    "tools": []
+  },
+  "YusufDinanet/MetroFlow": {
+    "tr": "—",
+    "tools": []
+  },
+  "multica-ai/andrej-karpathy-skills": {
+    "tr": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "tools": []
+  },
+  "rmyndharis/OpenWA": {
+    "tr": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+    "tools": []
+  },
+  "Free-TV/IPTV": {
+    "tr": "M3U Playlist for free TV channels",
+    "tools": []
+  },
+  "callstackincubator/agent-skills": {
+    "tr": "A collection of agent-optimized React Native skills for AI coding assistants.",
+    "tools": []
+  },
+  "caamer20/Telegram-Drive": {
+    "tr": "Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.",
+    "tools": []
+  },
+  "codybrom/Blankie": {
+    "tr": "Ambient sound mixer for macOS inspired by Blanket. Now available on the Mac App Store and via Homebrew.",
+    "tools": []
+  },
+  "webosbrew/dev-manager-desktop": {
+    "tr": "Device/DevMode Manager for webOS TV",
+    "tools": []
+  },
+  "wilwaldon/Claude-Code-Frontend-Design-Toolkit": {
+    "tr": "Everything I've found that actually makes Claude Code output better-looking frontends. Skills, plugins, MCP servers, CLAUDE.md tricks",
+    "tools": []
+  },
+  "open-saas-directory/awesome-native-macosx-apps": {
+    "tr": "The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance.",
+    "tools": []
+  },
+  "abus-aikorea/voice-pro": {
+    "tr": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
+    "tools": []
+  },
+  "bwya77/vscode-dark-islands": {
+    "tr": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+    "tools": []
+  },
+  "pranshuparmar/witr": {
+    "tr": "Why is this running?",
+    "tools": []
+  },
+  "OpenAEC-Foundation/open-pdf-studio": {
+    "tr": "—",
+    "tools": []
+  },
+  "tw93/Mole": {
+    "tr": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+    "tools": []
+  },
+  "google-labs-code/design.md": {
+    "tr": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "tools": []
+  },
+  "localsend/localsend": {
+    "tr": "An open-source cross-platform alternative to AirDrop",
+    "tools": []
+  },
+  "webadderallorg/Recordly": {
+    "tr": "Create polished demo videos without editing skills. Mac/Windows/Linux",
+    "tools": []
+  },
+  "warpdotdev/warp": {
+    "tr": "Warp is an agentic development environment, born out of the terminal.",
+    "tools": []
+  },
+  "nexu-io/open-design": {
+    "tr": "🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.",
+    "tools": []
+  },
+  "RefoundAI/lenny-skills": {
+    "tr": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+    "tools": []
+  },
+  "gorhill/uBlock": {
+    "tr": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "tools": []
+  },
+  "iptv-org/iptv": {
+    "tr": "Collection of publicly available IPTV channels from all over the world",
+    "tools": []
+  },
+  "microsoft/VibeVoice": {
+    "tr": "Open-Source Frontier Voice AI",
+    "tools": []
+  },
+  "syncthing/syncthing": {
+    "tr": "Open Source Continuous File Synchronization",
+    "tools": []
+  },
+  "jamiepine/voicebox": {
+    "tr": "The open-source AI voice studio. Clone, dictate, create.",
+    "tools": []
+  },
+  "paperless-ngx/paperless-ngx": {
+    "tr": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "tools": []
+  },
+  "nexmoe/VidBee": {
+    "tr": "Download videos from almost any website worldwide",
+    "tools": []
+  },
+  "aandrew-me/ytDownloader": {
+    "tr": "Desktop App for downloading Videos and Audios from hundreds of sites",
+    "tools": []
+  },
+  "PowerUserZ/OpenTokenUsage": {
+    "tr": "Track your AI coding subscriptions from the Windows system tray. Session limits, weekly quotas, reset times, all in one place. Free and open source.",
+    "tools": []
+  },
+  "siddharthvaddem/openscreen": {
+    "tr": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
+    "tools": []
+  },
+  "robinebers/openusage": {
+    "tr": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
+    "tools": []
+  },
+  "OpenBMB/VoxCPM": {
+    "tr": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "tools": []
+  },
+  "OpenCloudGaming/OpenNOW": {
+    "tr": "Custom GeForce Now Client Named OpenNOW",
+    "tools": []
+  },
+  "santifer/career-ops": {
+    "tr": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "tools": []
+  },
+  "tyc0on/GPT-SoVITS-colab": {
+    "tr": "Colab for GPT-SoVITS",
+    "tools": []
+  },
+  "sherlock-project/sherlock": {
+    "tr": "Hunt down social media accounts by username across social networks",
+    "tools": []
+  },
+  "ultraworkers/claw-code": {
+    "tr": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "tools": []
+  },
+  "vas3k/TaxHacker": {
+    "tr": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+    "tools": []
+  },
+  "zubair-trabzada/geo-seo-claude": {
+    "tr": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community",
+    "tools": []
+  },
+  "Panniantong/Agent-Reach": {
+    "tr": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "tools": []
+  },
+  "JCodesMore/ai-website-cloner-template": {
+    "tr": "Clone any website with one command using AI coding agents",
+    "tools": []
+  },
+  "pear-devs/pear-desktop": {
+    "tr": "Pear 🍐 is extension for music player",
+    "tools": []
+  },
+  "greensock/gsap-skills": {
+    "tr": "Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",
+    "tools": []
+  },
+  "BloopAI/vibe-kanban": {
+    "tr": "Get 10X more out of Claude Code, Codex or any coding agent",
+    "tools": []
+  },
+  "ripienaar/free-for-dev": {
+    "tr": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "tools": []
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "tr": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "tools": []
+  },
+  "ersinkoc/project-bootstrap": {
+    "tr": "—",
+    "tools": []
+  },
+  "msitarzewski/agency-agents": {
+    "tr": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "tools": []
+  },
+  "oguzhaanferli/ai-agent-team-mobile-app": {
+    "tr": "—",
+    "tools": []
+  },
+  "google-gemini/gemini-skills": {
+    "tr": "Skills for the Gemini API, SDK and model/agent interactions",
+    "tools": []
+  },
+  "coreyhaines31/marketingskills": {
+    "tr": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "tools": []
+  },
+  "3rt4nm4n/turkish-apis": {
+    "tr": "List of Turkish APIs. Türk API'leri",
+    "tools": []
+  },
+  "bmad-code-org/BMAD-METHOD": {
+    "tr": "Breakthrough Method for Agile Ai Driven Development",
+    "tools": []
+  },
+  "Lifeforge-app/lifeforge": {
+    "tr": "A self-hosted solution to streamline and organize all aspects of your life.",
+    "tools": []
+  },
+  "DodoApps/dodopulse": {
+    "tr": "A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs",
+    "tools": []
+  },
+  "Garletz/zikiro-FYR": {
+    "tr": "FYR = For Your Restaurant",
+    "tools": []
+  },
+  "alicankiraz1/Ai-Arastirma-Okumalarim-TR": {
+    "tr": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz.",
+    "tools": []
+  },
+  "openai/gpt-oss": {
+    "tr": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+    "tools": []
+  }
+}
