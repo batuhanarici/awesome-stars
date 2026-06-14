@@ -1,0 +1,38 @@
+{
+  "alicankiraz1/CodexQB": {
+    "tr": "CodexQB is a Codex plugin that packages a three-step project planning workflow as a reusable skill.",
+    "tools": []
+  },
+  "NVIDIA/SkillSpector": {
+    "tr": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+    "tools": []
+  },
+  "safishamsi/graphify": {
+    "tr": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "tools": []
+  },
+  "garrytan/gstack": {
+    "tr": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "tools": []
+  },
+  "refactoringhq/tolaria": {
+    "tr": "Desktop app to manage markdown knowledge bases",
+    "tools": []
+  },
+  "code-yeongyu/oh-my-openagent": {
+    "tr": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+    "tools": []
+  },
+  "addyosmani/agent-skills": {
+    "tr": "Production-grade engineering skills for AI coding agents.",
+    "tools": []
+  },
+  "weeeBox/mobile-system-design": {
+    "tr": "A simple framework for mobile system design interviews",
+    "tools": []
+  },
+  "Lifeforge-app/lifeforge": {
+    "tr": "A self-hosted solution to streamline and organize all aspects of your life.",
+    "tools": []
+  }
+}

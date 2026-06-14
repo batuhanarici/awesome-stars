@@ -1,8 +1,9 @@
-import os, json, datetime
+import os, json, datetime, time
 from urllib.request import urlopen, Request
 
-TOKEN = os.environ["GH_TOKEN"]
-USER  = os.environ["GH_USER"]
+TOKEN      = os.environ["GH_TOKEN"]
+USER       = os.environ["GH_USER"]
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 HEADERS = {
     "Authorization": f"token {TOKEN}",
@@ -25,7 +26,7 @@ while True:
     page += 1
 print(f"✅ {len(repos)} repo çekildi.")
 
-# ── Türkçe açıklamalar & araçlar (sabit sözlük) ─────────────────────
+# ── Sabit Türkçe meta sözlüğü ───────────────────────────────────────
 TR_META = {
     "aaif-goose/goose": ("Kod önerilerinin ötesine geçen, açık kaynaklı ve genişletilebilir AI ajan platformu.", ["Claude Code","Cursor","VS Code","Windsurf"]),
     "ownpilot/OwnPilot": ("Gizlilik odaklı, otonom ajanlı kişisel AI asistan platformu.", ["Claude Code","Gemini CLI"]),
@@ -86,7 +87,7 @@ TR_META = {
     "marktext/marktext": ("Linux, macOS ve Windows için sade ve zarif Markdown editörü.", ["Standalone"]),
     "webadderallorg/Recordly": ("Düzenleme becerisi gerekmeden parlak demo videoları oluştur.", ["Standalone"]),
     "siddharthvaddem/openscreen": ("Ücretsiz, açık kaynaklı, abonelik ve filigran olmadan etkileyici demolar.", ["Standalone","Electron"]),
-    "opendataloader-project/opendataloader-pdf": ("AI'a hazır veri için PDF ayrıştırıcı; PDF erişilebilirliğini otomatikleştir.", ["VS Code","Claude Code","Cursor"]),
+    "opendataloader-project/opendataloader-pdf": ("AI'a hazır veri için PDF ayrıştırıcı; erişilebilirliği otomatikleştir.", ["VS Code","Claude Code","Cursor"]),
     "tw93/Mole": ("Mac'ini terminalden temizle, analiz et, optimize et ve izle.", ["Terminal","macOS"]),
     "codybrom/Blankie": ("Mac App Store'da bulunan macOS için ortam sesi mikseri.", ["macOS"]),
     "DodoApps/dodopulse": ("Gerçek zamanlı sistem izleme için hafif macOS menü çubuğu uygulaması.", ["macOS"]),
@@ -109,6 +110,68 @@ TR_META = {
     "harry0703/MoneyPrinterTurbo": ("AI ile tek tıkla yüksek kaliteli kısa video üretim platformu.", ["Google Colab","VS Code","Claude Code"]),
 }
 
+# ── Gemini ile yeni repolar için otomatik meta üret ──────────────────
+def gemini_meta(repo):
+    if not GEMINI_KEY:
+        return None
+    prompt = f"""GitHub reposu:
+- Repo: {repo["full_name"]}
+- Açıklama (EN): {repo.get("description") or ""}
+- Dil: {repo.get("language") or ""}
+- Konular: {", ".join(repo.get("topics") or [])}
+
+YALNIZCA şu JSON formatında yanıt ver, başka hiçbir şey yazma:
+{{"tr": "<1-2 cümle Türkçe açıklama>", "tools": ["<araçlar>"]}}
+
+tools listesi için sadece bunlardan seç: Claude Code, Cursor, Windsurf, VS Code, Gemini CLI, Codex, Terminal, Google Colab, Copilot, MCP, Tauri, Electron, Flutter, Docker, Ollama, LM Studio, API, macOS, Windows, Xcode, Standalone, Genel Referans"""
+
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2, "maxOutputTokens": 200}
+    }).encode()
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}"
+    req = Request(url, data=body, headers={"Content-Type": "application/json"})
+    try:
+        with urlopen(req, timeout=15) as r:
+            resp = json.loads(r.read())
+        text = resp["candidates"][0]["content"]["parts"][0]["text"].strip()
+        start, end = text.find("{"), text.rfind("}") + 1
+        return json.loads(text[start:end])
+    except Exception as e:
+        print(f"  ⚠️  Gemini hatası ({repo['full_name']}): {e}")
+        return None
+
+# ── Önbellek yükle ──────────────────────────────────────────────────
+CACHE_FILE = "meta_cache.json"
+try:
+    with open(CACHE_FILE, encoding="utf-8") as f:
+        cache = json.load(f)
+except:
+    cache = {}
+
+# Yeni repolar için Gemini çağır
+new_count = 0
+for r in repos:
+    key = r["full_name"]
+    if key not in TR_META and key not in cache:
+        print(f"  🤖 Yeni repo tespit edildi: {key}")
+        meta = gemini_meta(r)
+        if meta:
+            cache[key] = meta
+            print(f"     ✅ Türkçe açıklama oluşturuldu")
+        else:
+            cache[key] = {
+                "tr": (r.get("description") or "—"),
+                "tools": []
+            }
+        new_count += 1
+        time.sleep(0.5)
+
+if new_count:
+    print(f"✅ {new_count} yeni repo işlendi.")
+    with open(CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
 # ── Kategori eşleştirme ──────────────────────────────────────────────
 CATEGORIES = [
     ("🤖 AI & Agents", [
@@ -121,6 +184,7 @@ CATEGORIES = [
         "agents.md","karpathy-skills","frontend-design-toolkit",
         "callstackincubator/agent-skills","lenny-skills","gemini-skills",
         "ui-ux-pro-max","gsap-skills","design.md","marketingskills",
+        "addyosmani/agent-skills",
     ]),
     ("🔧 Dev Tools & CLI", [
         "claudecodeui","warpdotdev","open-design","opentokenusage","openusage",
@@ -157,7 +221,6 @@ def categorize(repo):
     for cat_name, keywords in CATEGORIES:
         if any(kw.lower() in full for kw in keywords):
             return cat_name
-    # topics tabanlı fallback
     if any(k in topics for k in ["agent","llm","ai","gpt","claude","gemini","copilot","mcp"]):
         return "🤖 AI & Agents"
     if any(k in topics for k in ["prompt","skill","template"]):
@@ -170,7 +233,7 @@ def categorize(repo):
         return "📱 Mobile & Cross-Platform"
     if any(k in topics for k in ["tts","voice","speech","audio","music","video","iptv"]):
         return "🎵 Medya, Ses & Video"
-    if any(k in topics for k in ["self-hosted","homelab","docker","productivity","note"]):
+    if any(k in topics for k in ["self-hosted","homelab","docker","productivity"]):
         return "📋 Prodüktivite & Self-Hosted"
     if any(k in topics for k in ["security","osint","pentest","ctf","privacy"]):
         return "⚙️ Yazılım Geliştirme & Güvenlik"
@@ -178,7 +241,6 @@ def categorize(repo):
         return "🇹🇷 Türkçe Projeler"
     return "🗂️ Diğer"
 
-# Kategorilere ayır
 order = [c[0] for c in CATEGORIES] + ["🗂️ Diğer"]
 buckets = {c: [] for c in order}
 for r in repos:
@@ -218,39 +280,28 @@ lines = [
     "",
     "## İçindekiler", "",
 ]
-
 for cat in order:
     if buckets[cat]:
         lines.append(f"- [{cat}](#) — {len(buckets[cat])} repo")
-
 lines += ["", "---", ""]
 
 for cat in order:
     rlist = buckets[cat]
     if not rlist:
         continue
-    lines += [
-        f"## {cat}", "",
-        "| Repo | Açıklama | Dil | Araçlar |",
-        "|------|----------|-----|---------|",
-    ]
+    lines += [f"## {cat}", "", "| Repo | Açıklama | Dil | Araçlar |", "|------|----------|-----|---------|"]
     for r in sorted(rlist, key=lambda x: x["full_name"].lower()):
-        key   = r["full_name"]
-        meta  = TR_META.get(key)
-        if meta:
-            desc, tools = meta
+        key = r["full_name"]
+        if key in TR_META:
+            desc, tools = TR_META[key]
+        elif key in cache:
+            desc  = cache[key].get("tr") or (r.get("description") or "—")
+            tools = cache[key].get("tools", [])
         else:
-            # Yeni repo — İngilizce açıklama, topics'ten araç tahmini
             desc  = (r.get("description") or "—")
-            topics = " ".join(r.get("topics") or []).lower()
             tools = []
-            if any(k in topics for k in ["claude","mcp"]): tools.append("Claude Code")
-            if "cursor" in topics: tools.append("Cursor")
-            if any(k in topics for k in ["flutter","dart"]): tools.append("Flutter")
-            if any(k in topics for k in ["docker","container"]): tools.append("Docker")
-            if any(k in topics for k in ["vscode","vs-code"]): tools.append("VS Code")
         desc = desc.replace("|","\\|")
-        lang  = r.get("language") or "N/A"
+        lang = r.get("language") or "N/A"
         lines.append(f"| [{key}]({r['html_url']}) | {desc} | `{lang}` | {badges(tools)} |")
     lines += ["", "---", ""]
 
