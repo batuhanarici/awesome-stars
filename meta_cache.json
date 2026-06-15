@@ -350,5 +350,13 @@
   "openai/gpt-oss": {
     "tr": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
     "tools": []
+  },
+  "microsoft/graphrag": {
+    "tr": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "tools": []
+  },
+  "langgenius/dify": {
+    "tr": "Production-ready platform for agentic workflow development.",
+    "tools": []
   }
 }
