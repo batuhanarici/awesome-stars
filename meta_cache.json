@@ -358,5 +358,13 @@
   "langgenius/dify": {
     "tr": "Production-ready platform for agentic workflow development.",
     "tools": []
+  },
+  "simstudioai/sim": {
+    "tr": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "tools": []
+  },
+  "DietrichGebert/ponytail": {
+    "tr": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "tools": []
   }
 }
