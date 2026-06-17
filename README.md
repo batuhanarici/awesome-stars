@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **16 June 2026** &nbsp;|&nbsp; 📦 Toplam: **92 repo** &nbsp;|&nbsp; 🗂️ Kategori: **9**
+> 🕐 Son güncelleme: **17 June 2026** &nbsp;|&nbsp; 📦 Toplam: **94 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 26 repo
+- [🤖 AI & Agents](#) — 27 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 7 repo
@@ -14,6 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 6 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 5 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
+- [🗂️ Diğer](#) — 1 repo
 
 ---
 
@@ -46,6 +47,7 @@
 | [santifer/career-ops](https://github.com/santifer/career-ops) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | `JavaScript` | — |
 | [simstudioai/sim](https://github.com/simstudioai/sim) | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | `TypeScript` | — |
 | [tddworks/baguette](https://github.com/tddworks/baguette) | Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming | `Swift` | — |
+| [webpro-nl/knip](https://github.com/webpro-nl/knip) | ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! | `TypeScript` | — |
 | [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) | A CLI AI coding agent that runs in your terminal. | `TypeScript` | — |
 
 ---
@@ -169,6 +171,14 @@
 | [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) | MCP Server For Turkish Legal Databases | `Python` | — |
 | [YusufDinanet/MetroFlow](https://github.com/YusufDinanet/MetroFlow) | — | `Python` | — |
 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community | `Python` | — |
+
+---
+
+## 🗂️ Diğer
+
+| Repo | Açıklama | Dil | Araçlar |
+|------|----------|-----|---------|
+| [tw93/Kami](https://github.com/tw93/Kami) | 👩‍🚒 Good content deserves good paper. | `HTML` | — |
 
 ---
 
