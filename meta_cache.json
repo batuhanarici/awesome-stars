@@ -374,5 +374,13 @@
   "tw93/Kami": {
     "tr": "👩‍🚒 Good content deserves good paper.",
     "tools": []
+  },
+  "obra/superpowers": {
+    "tr": "An agentic skills framework & software development methodology that works.",
+    "tools": []
+  },
+  "anthropics/skills": {
+    "tr": "Public repository for Agent Skills",
+    "tools": []
   }
 }

@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **17 June 2026** &nbsp;|&nbsp; 📦 Toplam: **94 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **18 June 2026** &nbsp;|&nbsp; 📦 Toplam: **96 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 27 repo
+- [🤖 AI & Agents](#) — 28 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 7 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 6 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 5 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 1 repo
+- [🗂️ Diğer](#) — 2 repo
 
 ---
 
@@ -24,6 +24,7 @@
 |------|----------|-----|---------|
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Rust` | — |
 | [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) | CodexQB is a Codex plugin that packages a three-step project planning workflow as a reusable skill. | `Python` | — |
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | `Python` | — |
 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | `Rust` | — |
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | Breakthrough Method for Agile Ai Driven Development | `JavaScript` | — |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode | `TypeScript` | — |
@@ -151,7 +152,7 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
-| [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | VSCode theme based off the easemate IDE and Jetbrains islands theme | `PowerShell` | — |
+| [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | VSCode theme based off the easemate IDE and Jetbrains islands theme | `Shell` | — |
 | [DontFuckMyCode/dfmc](https://github.com/DontFuckMyCode/dfmc) | — | `Go` | — |
 | [OpenAEC-Foundation/open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) | — | `HTML` | — |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | `Python` | — |
@@ -178,6 +179,7 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | `Shell` | — |
 | [tw93/Kami](https://github.com/tw93/Kami) | 👩‍🚒 Good content deserves good paper. | `HTML` | — |
 
 ---
