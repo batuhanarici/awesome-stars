@@ -382,5 +382,21 @@
   "anthropics/skills": {
     "tr": "Public repository for Agent Skills",
     "tools": []
+  },
+  "massgravel/Microsoft-Activation-Scripts": {
+    "tr": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+    "tools": []
+  },
+  "google-research/timesfm": {
+    "tr": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "tools": []
+  },
+  "OpenCut-app/OpenCut": {
+    "tr": "The open-source CapCut alternative",
+    "tools": []
+  },
+  "github/spec-kit": {
+    "tr": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "tools": []
   }
 }
