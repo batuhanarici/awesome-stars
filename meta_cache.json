@@ -398,5 +398,9 @@
   "github/spec-kit": {
     "tr": "💫 Toolkit to help you get started with Spec-Driven Development",
     "tools": []
+  },
+  "chopratejas/headroom": {
+    "tr": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "tools": []
   }
 }
