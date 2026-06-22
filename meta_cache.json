@@ -402,5 +402,21 @@
   "chopratejas/headroom": {
     "tr": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
     "tools": []
+  },
+  "tw93/Pake": {
+    "tr": "🤱🏻 Turn any webpage into a desktop app with one command.",
+    "tools": []
+  },
+  "unslothai/unsloth": {
+    "tr": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+    "tools": []
+  },
+  "calesthio/OpenMontage": {
+    "tr": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "tools": []
+  },
+  "bytedance/deer-flow": {
+    "tr": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "tools": []
   }
 }
