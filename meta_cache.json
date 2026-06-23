@@ -418,5 +418,37 @@
   "bytedance/deer-flow": {
     "tr": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
     "tools": []
+  },
+  "browser-use/browser-use": {
+    "tr": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "tools": []
+  },
+  "unclecode/crawl4ai": {
+    "tr": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "tools": []
+  },
+  "firecrawl/firecrawl": {
+    "tr": "The API to search, scrape, and interact with the web at scale. 🔥",
+    "tools": []
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "tr": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+    "tools": []
+  },
+  "XiaomiMiMo/MiMo-Code": {
+    "tr": "MiMo Code: Where Models and Agents Co-Evolve",
+    "tools": []
+  },
+  "NVIDIA/skills": {
+    "tr": "AI agent skills published by NVIDIA",
+    "tools": []
+  },
+  "hiyouga/LlamaFactory": {
+    "tr": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "tools": []
+  },
+  "headroomlabs-ai/headroom": {
+    "tr": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "tools": []
   }
 }
