@@ -450,5 +450,17 @@
   "headroomlabs-ai/headroom": {
     "tr": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
     "tools": []
+  },
+  "baidu/Unlimited-OCR": {
+    "tr": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "tools": []
+  },
+  "shanraisshan/claude-code-best-practice": {
+    "tr": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "tools": []
+  },
+  "ShadowHackrs/gmail-account-creator": {
+    "tr": "🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.",
+    "tools": []
   }
 }
