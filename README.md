@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **25 June 2026** &nbsp;|&nbsp; 📦 Toplam: **115 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **26 June 2026** &nbsp;|&nbsp; 📦 Toplam: **115 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -96,7 +96,7 @@
 | [PowerUserZ/OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage) | Track your AI coding subscriptions from the Windows system tray. Session limits, weekly quotas, reset times, all in one place. Free and open source. | `JavaScript` | — |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? | `Go` | — |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | `HTML` | — |
-| [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. | `JavaScript` | — |
+| [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. | `Swift` | — |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely. | `TypeScript` | — |
 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | `Go` | — |
 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal. | `Rust` | — |
