@@ -462,5 +462,9 @@
   "ShadowHackrs/gmail-account-creator": {
     "tr": "🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease.",
     "tools": []
+  },
+  "cjpais/Handy": {
+    "tr": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "tools": []
   }
 }
