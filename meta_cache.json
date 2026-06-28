@@ -466,5 +466,17 @@
   "cjpais/Handy": {
     "tr": "A free, open source, and extensible speech-to-text application that works completely offline.",
     "tools": []
+  },
+  "sickn33/antigravity-awesome-skills": {
+    "tr": "Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
+    "tools": []
+  },
+  "anthropics/claude-for-legal": {
+    "tr": "A suite of plugins for legal workflows",
+    "tools": []
+  },
+  "microsoft/JARVIS": {
+    "tr": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+    "tools": []
   }
 }
