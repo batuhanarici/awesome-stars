@@ -478,5 +478,9 @@
   "microsoft/JARVIS": {
     "tr": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
     "tools": []
+  },
+  "hasaneyldrm/exercises-dataset": {
+    "tr": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "tools": []
   }
 }
