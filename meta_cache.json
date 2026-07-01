@@ -482,5 +482,9 @@
   "hasaneyldrm/exercises-dataset": {
     "tr": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
     "tools": []
+  },
+  "patchy631/ai-engineering-hub": {
+    "tr": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "tools": []
   }
 }
