@@ -486,5 +486,9 @@
   "patchy631/ai-engineering-hub": {
     "tr": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
     "tools": []
+  },
+  "lfnovo/open-notebook": {
+    "tr": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "tools": []
   }
 }
