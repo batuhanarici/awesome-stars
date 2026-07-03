@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **02 July 2026** &nbsp;|&nbsp; 📦 Toplam: **122 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **03 July 2026** &nbsp;|&nbsp; 📦 Toplam: **123 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 43 repo
+- [🤖 AI & Agents](#) — 44 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 7 repo
@@ -31,6 +31,7 @@
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | `Python` | — |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | `Python` | — |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode | `TypeScript` | — |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. | `TypeScript` | — |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | `JavaScript` | — |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | — | `Python` | — |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | `TypeScript` | — |
