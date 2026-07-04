@@ -494,5 +494,13 @@
   "diegosouzapw/OmniRoute": {
     "tr": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
     "tools": []
+  },
+  "usestrix/strix": {
+    "tr": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "tools": []
+  },
+  "Graphify-Labs/graphify": {
+    "tr": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+    "tools": []
   }
 }
