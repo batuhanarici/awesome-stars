@@ -506,5 +506,9 @@
   "browserbase/stagehand": {
     "tr": "The SDK For Browser Agents",
     "tools": []
+  },
+  "kiliczsh/llmconfig": {
+    "tr": "Config-driven CLI for managing local LLM inference with llama.cpp",
+    "tools": []
   }
 }
