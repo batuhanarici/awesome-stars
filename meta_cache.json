@@ -522,5 +522,9 @@
   "DeusData/codebase-memory-mcp": {
     "tr": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
     "tools": []
+  },
+  "thedotmack/claude-mem": {
+    "tr": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "tools": []
   }
 }

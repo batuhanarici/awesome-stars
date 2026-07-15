@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **14 July 2026** &nbsp;|&nbsp; 📦 Toplam: **128 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **15 July 2026** &nbsp;|&nbsp; 📦 Toplam: **129 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 47 repo
+- [🤖 AI & Agents](#) — 48 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -63,6 +63,7 @@
 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections. | `Python` | — |
 | [simstudioai/sim](https://github.com/simstudioai/sim) | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | `TypeScript` | — |
 | [tddworks/baguette](https://github.com/tddworks/baguette) | Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming | `Swift` | — |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | `JavaScript` | — |
 | [tw93/Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with one command. | `Rust` | — |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | `Python` | — |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | `Python` | — |
