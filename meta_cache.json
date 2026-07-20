@@ -554,5 +554,9 @@
   "openinterpreter/openinterpreter": {
     "tr": "A coding agent for open models like Kimi K3",
     "tools": []
+  },
+  "onurravli/resume": {
+    "tr": "This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website.",
+    "tools": []
   }
 }
