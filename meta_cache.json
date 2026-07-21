@@ -558,5 +558,9 @@
   "onurravli/resume": {
     "tr": "This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website.",
     "tools": []
+  },
+  "noah-qin/MoleUI": {
+    "tr": "Native macOS GUI for tw93/Mole, built with SwiftUI",
+    "tools": []
   }
 }

@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **20 July 2026** &nbsp;|&nbsp; 📦 Toplam: **137 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **21 July 2026** &nbsp;|&nbsp; 📦 Toplam: **138 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 6 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 14 repo
+- [🗂️ Diğer](#) — 15 repo
 
 ---
 
@@ -216,6 +216,7 @@
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | `TypeScript` | — |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | `Batchfile` | — |
 | [microsoft/JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | `Python` | — |
+| [noah-qin/MoleUI](https://github.com/noah-qin/MoleUI) | Native macOS GUI for tw93/Mole, built with SwiftUI | `Shell` | — |
 | [NVIDIA/skills](https://github.com/NVIDIA/skills) | AI agent skills published by NVIDIA | `Python` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
