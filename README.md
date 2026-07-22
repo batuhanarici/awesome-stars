@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **21 July 2026** &nbsp;|&nbsp; 📦 Toplam: **138 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **22 July 2026** &nbsp;|&nbsp; 📦 Toplam: **139 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 52 repo
+- [🤖 AI & Agents](#) — 54 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 6 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 15 repo
+- [🗂️ Diğer](#) — 14 repo
 
 ---
 
@@ -52,6 +52,7 @@
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | `Shell` | — |
 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 | `Python` | — |
 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. | `Jupyter Notebook` | — |
+| [NVIDIA/skills](https://github.com/NVIDIA/skills) | AI agent skills published by NVIDIA | `Python` | — |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. | `Python` | — |
 | [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works. | `Shell` | — |
 | [oguzhaanferli/ai-agent-team-mobile-app](https://github.com/oguzhaanferli/ai-agent-team-mobile-app) | — | `TypeScript` | — |
@@ -69,6 +70,7 @@
 | [tddworks/baguette](https://github.com/tddworks/baguette) | Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming | `Swift` | — |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More | `JavaScript` | — |
 | [tw93/Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with one command. | `Rust` | — |
+| [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. | `TypeScript` | — |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | `Python` | — |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | `Python` | — |
 | [webpro-nl/knip](https://github.com/webpro-nl/knip) | ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! | `TypeScript` | — |
@@ -217,7 +219,6 @@
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | `Batchfile` | — |
 | [microsoft/JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | `Python` | — |
 | [noah-qin/MoleUI](https://github.com/noah-qin/MoleUI) | Native macOS GUI for tw93/Mole, built with SwiftUI | `Shell` | — |
-| [NVIDIA/skills](https://github.com/NVIDIA/skills) | AI agent skills published by NVIDIA | `Python` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
 | [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) | 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease. | `Python` | — |

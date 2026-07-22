@@ -562,5 +562,9 @@
   "noah-qin/MoleUI": {
     "tr": "Native macOS GUI for tw93/Mole, built with SwiftUI",
     "tools": []
+  },
+  "UditAkhourii/adhd": {
+    "tr": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "tools": []
   }
 }
