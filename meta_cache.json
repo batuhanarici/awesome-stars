@@ -566,5 +566,13 @@
   "UditAkhourii/adhd": {
     "tr": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
     "tools": []
+  },
+  "rcnsnr/job-search-workflow": {
+    "tr": "AI-assisted, local-first job search workflow framework — triage, scoring, application tracking",
+    "tools": []
+  },
+  "block/buzz": {
+    "tr": "A hive mind communication platform",
+    "tools": []
   }
 }

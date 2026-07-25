@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **24 July 2026** &nbsp;|&nbsp; 📦 Toplam: **139 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **25 July 2026** &nbsp;|&nbsp; 📦 Toplam: **141 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 54 repo
+- [🤖 AI & Agents](#) — 55 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 6 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 14 repo
+- [🗂️ Diğer](#) — 15 repo
 
 ---
 
@@ -62,6 +62,7 @@
 | [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) | Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support. | `TypeScript` | — |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | `Python` | — |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | `Jupyter Notebook` | — |
+| [rcnsnr/job-search-workflow](https://github.com/rcnsnr/job-search-workflow) | AI-assisted, local-first job search workflow framework — triage, scoring, application tracking | `JavaScript` | — |
 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | Desktop app to manage markdown knowledge bases | `TypeScript` | — |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | `JavaScript` | — |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect | `HTML` | — |
@@ -212,6 +213,7 @@
 |------|----------|-----|---------|
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | `Python` | — |
+| [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | `Rust` | — |
 | [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) | A native macOS system cleaner and optimization app built with SwiftUI | `Swift` | — |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | `Python` | — |
 | [kiliczsh/llmconfig](https://github.com/kiliczsh/llmconfig) | Config-driven CLI for managing local LLM inference with llama.cpp | `Go` | — |
