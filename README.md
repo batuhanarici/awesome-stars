@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **29 July 2026** &nbsp;|&nbsp; 📦 Toplam: **142 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **30 July 2026** &nbsp;|&nbsp; 📦 Toplam: **143 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 56 repo
+- [🤖 AI & Agents](#) — 57 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -78,6 +78,7 @@
 | [webpro-nl/knip](https://github.com/webpro-nl/knip) | ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! | `TypeScript` | — |
 | [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) | A CLI AI coding agent that runs in your terminal. | `TypeScript` | — |
 | [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | MiMo Code: Where Models and Agents Co-Evolve | `TypeScript` | — |
+| [zjunlp/LightMem](https://github.com/zjunlp/LightMem) | [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation | `Python` | — |
 
 ---
 

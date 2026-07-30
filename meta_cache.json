@@ -578,5 +578,9 @@
   "Egonex-AI/Understand-Anything": {
     "tr": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
     "tools": []
+  },
+  "zjunlp/LightMem": {
+    "tr": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
+    "tools": []
   }
 }
