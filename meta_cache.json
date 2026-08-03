@@ -582,5 +582,9 @@
   "zjunlp/LightMem": {
     "tr": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
     "tools": []
+  },
+  "Jarvis322/MacWake": {
+    "tr": "Battery health, charge limit and a Dynamic Island for your Mac — an elegant SwiftUI menu bar app for macOS.",
+    "tools": []
   }
 }

@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **02 August 2026** &nbsp;|&nbsp; 📦 Toplam: **143 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **03 August 2026** &nbsp;|&nbsp; 📦 Toplam: **144 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -11,7 +11,7 @@
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 6 repo
+- [🖥️ macOS & Desktop Apps](#) — 7 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
 - [🗂️ Diğer](#) — 15 repo
@@ -174,6 +174,7 @@
 |------|----------|-----|---------|
 | [codybrom/Blankie](https://github.com/codybrom/Blankie) | Ambient sound mixer for macOS inspired by Blanket. Now available on the Mac App Store and via Homebrew. | `Swift` | — |
 | [DodoApps/dodopulse](https://github.com/DodoApps/dodopulse) | A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs | `Swift` | — |
+| [Jarvis322/MacWake](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac — an elegant SwiftUI menu bar app for macOS. | `Swift` | — |
 | [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) | Reactor is an experimental set of extensions to WinUI | `C#` | — |
 | [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance. | `Shell` | — |
 | [shiiraz/clicklight-windows](https://github.com/shiiraz/clicklight-windows) | Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility. | `C#` | — |
