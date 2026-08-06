@@ -590,5 +590,9 @@
   "yc-software/qm": {
     "tr": "Multiplayer agent harness for work",
     "tools": []
+  },
+  "firecrawl/pdf-inspector": {
+    "tr": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "tools": []
   }
 }
