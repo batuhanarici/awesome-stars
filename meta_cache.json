@@ -594,5 +594,9 @@
   "firecrawl/pdf-inspector": {
     "tr": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "tools": []
+  },
+  "eticmedya/vibecodingex": {
+    "tr": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
+    "tools": []
   }
 }
