@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **08 August 2026** &nbsp;|&nbsp; 📦 Toplam: **147 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **09 August 2026** &nbsp;|&nbsp; 📦 Toplam: **150 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 58 repo
+- [🤖 AI & Agents](#) — 59 repo
 - [🎯 Skills & Prompts](#) — 12 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 7 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 17 repo
+- [🗂️ Diğer](#) — 19 repo
 
 ---
 
@@ -23,6 +23,7 @@
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | `Rust` | — |
+| [adrianhajdin/roomify](https://github.com/adrianhajdin/roomify) | AI-powered architectural visualization platform built with React and Puter; featuring 2D-to-3D photorealistic rendering, serverless workers, high-performance KV storage, and a global community feed. | `TypeScript` | — |
 | [alicankiraz1/CodexQB](https://github.com/alicankiraz1/CodexQB) | CodexQB is a Codex plugin that packages a three-step project planning workflow as a reusable skill. | `Python` | — |
 | [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | `Python` | — |
 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | `Rust` | — |
@@ -218,7 +219,9 @@
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | `Python` | — |
 | [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | `Rust` | — |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | `TypeScript` | — |
 | [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) | A native macOS system cleaner and optimization app built with SwiftUI | `Swift` | — |
+| [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | — | `TypeScript` | — |
 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. | `Rust` | — |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | `Python` | — |
 | [kiliczsh/llmconfig](https://github.com/kiliczsh/llmconfig) | Config-driven CLI for managing local LLM inference with llama.cpp | `Go` | — |

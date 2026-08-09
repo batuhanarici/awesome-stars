@@ -598,5 +598,17 @@
   "eticmedya/vibecodingex": {
     "tr": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.",
     "tools": []
+  },
+  "adrianhajdin/roomify": {
+    "tr": "AI-powered architectural visualization platform built with React and Puter; featuring 2D-to-3D photorealistic rendering, serverless workers, high-performance KV storage, and a global community feed.",
+    "tools": []
+  },
+  "eneskirca/nodeterm": {
+    "tr": "—",
+    "tools": []
+  },
+  "cloudflare/computer": {
+    "tr": "Give your agent a computer 👾",
+    "tools": []
   }
 }
