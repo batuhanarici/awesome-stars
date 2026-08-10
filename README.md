@@ -1,12 +1,12 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **09 August 2026** &nbsp;|&nbsp; 📦 Toplam: **150 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **10 August 2026** &nbsp;|&nbsp; 📦 Toplam: **159 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 59 repo
-- [🎯 Skills & Prompts](#) — 12 repo
+- [🤖 AI & Agents](#) — 65 repo
+- [🎯 Skills & Prompts](#) — 13 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 7 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 19 repo
+- [🗂️ Diğer](#) — 21 repo
 
 ---
 
@@ -30,14 +30,17 @@
 | [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) | Breakthrough Method for Agile Ai Driven Development | `JavaScript` | — |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | `Python` | — |
 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | The SDK For Browser Agents | `TypeScript` | — |
+| [bushrabeg/turkce-humanizer](https://github.com/bushrabeg/turkce-humanizer) | Türkçe metinlerden yapay zekâ yazım imzalarını temizleyen Claude skill'i. YZ üretimi Türkçe'yi doğal, insan-sesli Türkçe'ye dönüştürür. \| A Claude skill that removes AI writing signatures from Turkish text. | `N/A` | — |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | `Python` | — |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | `Python` | — |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode | `TypeScript` | — |
+| [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work. | `TypeScript` | — |
 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | `Python` | — |
 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. | `C` | — |
 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. | `TypeScript` | — |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | `JavaScript` | — |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | `TypeScript` | — |
+| [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend. | `Python` | — |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | — | `Python` | — |
 | [eticmedya/vibecodingex](https://github.com/eticmedya/vibecodingex) | AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel. | `Vue` | — |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | `TypeScript` | — |
@@ -68,6 +71,7 @@
 | [rcnsnr/job-search-workflow](https://github.com/rcnsnr/job-search-workflow) | AI-assisted, local-first job search workflow framework — triage, scoring, application tracking | `JavaScript` | — |
 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | Desktop app to manage markdown knowledge bases | `TypeScript` | — |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. | `JavaScript` | — |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Graph-Native Infrastructure for Context and Accountable AI Systems | `Python` | — |
 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | from vibe coding to agentic engineering - practice makes claude perfect | `HTML` | — |
 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Installable GitHub library of 1,935+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections. | `Python` | — |
 | [simstudioai/sim](https://github.com/simstudioai/sim) | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. | `TypeScript` | — |
@@ -76,7 +80,9 @@
 | [tw93/Pake](https://github.com/tw93/Pake) | 🤱🏻 Turn any webpage into a desktop app with one command. | `Rust` | — |
 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. | `TypeScript` | — |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | `Python` | — |
+| [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. | `Go` | — |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | `Python` | — |
+| [video-db/call.md](https://github.com/video-db/call.md) | Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls. | `TypeScript` | — |
 | [webpro-nl/knip](https://github.com/webpro-nl/knip) | ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! | `TypeScript` | — |
 | [WrongStack/WrongStack](https://github.com/WrongStack/WrongStack) | A CLI AI coding agent that runs in your terminal. | `TypeScript` | — |
 | [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | MiMo Code: Where Models and Agents Co-Evolve | `TypeScript` | — |
@@ -92,6 +98,7 @@
 | [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | AGENTS.md — a simple, open format for guiding coding agents | `TypeScript` | — |
 | [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) | A collection of agent-optimized React Native skills for AI coding assistants. | `Shell` | — |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. | `JavaScript` | — |
+| [filiksyos/gitreverse](https://github.com/filiksyos/gitreverse) | Reverse engineer any repo into it's original prompt | `TypeScript` | — |
 | [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) | Skills for the Gemini API, SDK and model/agent interactions | `Python` | — |
 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. | `TypeScript` | — |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. | `Python` | — |
@@ -216,9 +223,11 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | `TypeScript` | — |
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | `Python` | — |
 | [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | `Rust` | — |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. | `HTML` | — |
 | [cloudflare/computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | `TypeScript` | — |
 | [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) | A native macOS system cleaner and optimization app built with SwiftUI | `Swift` | — |
 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | — | `TypeScript` | — |

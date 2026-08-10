@@ -610,5 +610,41 @@
   "cloudflare/computer": {
     "tr": "Give your agent a computer 👾",
     "tools": []
+  },
+  "bushrabeg/turkce-humanizer": {
+    "tr": "Türkçe metinlerden yapay zekâ yazım imzalarını temizleyen Claude skill'i. YZ üretimi Türkçe'yi doğal, insan-sesli Türkçe'ye dönüştürür. | A Claude skill that removes AI writing signatures from Turkish text.",
+    "tools": []
+  },
+  "EpicStaff/EpicStaff": {
+    "tr": "Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend.",
+    "tools": []
+  },
+  "cathrynlavery/diagram-design": {
+    "tr": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "tools": []
+  },
+  "danielmiessler/LifeOS": {
+    "tr": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+    "tools": []
+  },
+  "anomalyco/opencode": {
+    "tr": "The open source coding agent.",
+    "tools": []
+  },
+  "filiksyos/gitreverse": {
+    "tr": "Reverse engineer any repo into it's original prompt",
+    "tools": []
+  },
+  "Untrivial-ai/agent-orchestrator": {
+    "tr": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.",
+    "tools": []
+  },
+  "semantica-agi/semantica": {
+    "tr": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "tools": []
+  },
+  "video-db/call.md": {
+    "tr": "Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.",
+    "tools": []
   }
 }
