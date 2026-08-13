@@ -650,5 +650,9 @@
   "drumih/turbo-fieldfare": {
     "tr": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook",
     "tools": []
+  },
+  "jakubkrehel/skills": {
+    "tr": "A collection of agent skills that help you build a great interface.",
+    "tools": []
   }
 }
