@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **13 August 2026** &nbsp;|&nbsp; 📦 Toplam: **161 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **14 August 2026** &nbsp;|&nbsp; 📦 Toplam: **162 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 7 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 20 repo
+- [🗂️ Diğer](#) — 21 repo
 
 ---
 
@@ -226,6 +226,7 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
+| [alpunlu12-commits/jarvis](https://github.com/alpunlu12-commits/jarvis) | Jarvis AI Asistan | `N/A` | — |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | `TypeScript` | — |
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | `Python` | — |

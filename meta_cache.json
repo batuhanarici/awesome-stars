@@ -654,5 +654,9 @@
   "jakubkrehel/skills": {
     "tr": "A collection of agent skills that help you build a great interface.",
     "tools": []
+  },
+  "alpunlu12-commits/jarvis": {
+    "tr": "Jarvis AI Asistan",
+    "tools": []
   }
 }
