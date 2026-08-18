@@ -658,5 +658,9 @@
   "alpunlu12-commits/jarvis": {
     "tr": "Jarvis AI Asistan",
     "tools": []
+  },
+  "emilkowalski/skills": {
+    "tr": "Skills for Designers and Engineers.",
+    "tools": []
   }
 }
