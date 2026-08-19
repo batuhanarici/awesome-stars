@@ -662,5 +662,9 @@
   "emilkowalski/skills": {
     "tr": "Skills for Designers and Engineers.",
     "tools": []
+  },
+  "pbakaus/impeccable": {
+    "tr": "The design language that makes your AI harness better at design.",
+    "tools": []
   }
 }
