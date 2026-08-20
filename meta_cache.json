@@ -666,5 +666,13 @@
   "pbakaus/impeccable": {
     "tr": "The design language that makes your AI harness better at design.",
     "tools": []
+  },
+  "eticmedya/Vibesecurity": {
+    "tr": "AI-powered security auditing for web and mobile applications. Built for vibe coding workflows with Codex and Claude Code, VibeSecurity reviews your projects, detects vulnerabilities, identifies security risks, and suggests or applies fixes to make AI-generated software safer, more reliable, and production-ready.",
+    "tools": []
+  },
+  "chaitanyagiri/munder-difflin": {
+    "tr": "local multi-agent harness",
+    "tools": []
   }
 }

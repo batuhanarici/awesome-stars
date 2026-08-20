@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **19 August 2026** &nbsp;|&nbsp; 📦 Toplam: **164 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **20 August 2026** &nbsp;|&nbsp; 📦 Toplam: **166 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 68 repo
+- [🤖 AI & Agents](#) — 70 repo
 - [🎯 Skills & Prompts](#) — 13 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -33,6 +33,8 @@
 | [bushrabeg/turkce-humanizer](https://github.com/bushrabeg/turkce-humanizer) | Türkçe metinlerden yapay zekâ yazım imzalarını temizleyen Claude skill'i. YZ üretimi Türkçe'yi doğal, insan-sesli Türkçe'ye dönüştürür. \| A Claude skill that removes AI writing signatures from Turkish text. | `N/A` | — |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | `Python` | — |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. | `Python` | — |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. | `HTML` | — |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | local multi-agent harness | `TypeScript` | — |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode | `TypeScript` | — |
 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work. | `TypeScript` | — |
 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | OCR model that handles complex tables, forms, handwriting with full layout. | `Python` | — |
@@ -231,10 +233,10 @@
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | `Python` | — |
 | [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | `Rust` | — |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. | `HTML` | — |
 | [cloudflare/computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | `TypeScript` | — |
 | [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) | A native macOS system cleaner and optimization app built with SwiftUI | `Swift` | — |
 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | `Markdown` | — |
+| [eticmedya/Vibesecurity](https://github.com/eticmedya/Vibesecurity) | AI-powered security auditing for web and mobile applications. Built for vibe coding workflows with Codex and Claude Code, VibeSecurity reviews your projects, detects vulnerabilities, identifies security risks, and suggests or applies fixes to make AI-generated software safer, more reliable, and production-ready. | `N/A` | — |
 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. | `Rust` | — |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | `Python` | — |
 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | A collection of agent skills that help you build a great interface. | `Markdown` | — |
