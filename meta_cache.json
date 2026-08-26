@@ -682,5 +682,9 @@
   "yetone/cumora": {
     "tr": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
     "tools": []
+  },
+  "VoltAgent/awesome-agent-skills": {
+    "tr": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+    "tools": []
   }
 }
