@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **26 August 2026** &nbsp;|&nbsp; 📦 Toplam: **169 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **27 August 2026** &nbsp;|&nbsp; 📦 Toplam: **170 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 7 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 24 repo
+- [🗂️ Diğer](#) — 25 repo
 
 ---
 
@@ -124,7 +124,7 @@
 | [ersinkoc/FluidFlow](https://github.com/ersinkoc/FluidFlow) | Sketch to App | `TypeScript` | — |
 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | `JavaScript` | — |
 | [microsoft/coreutils](https://github.com/microsoft/coreutils) | Coreutils for Windows: Installer & Packaging | `Rust` | — |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs. | `TypeScript` | — |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs. | `N/A` | — |
 | [PowerUserZ/OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage) | Track your AI coding subscriptions from the Windows system tray. Session limits, weekly quotas, reset times, all in one place. Free and open source. | `JavaScript` | — |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? | `Go` | — |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | `HTML` | — |
@@ -234,6 +234,7 @@
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | `TypeScript` | — |
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |
 | [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing. | `Python` | — |
+| [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | — | `TypeScript` | — |
 | [block/buzz](https://github.com/block/buzz) | A hive mind communication platform | `Rust` | — |
 | [cloudflare/computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | `TypeScript` | — |
 | [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) | A native macOS system cleaner and optimization app built with SwiftUI | `Swift` | — |

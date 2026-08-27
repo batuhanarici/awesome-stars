@@ -686,5 +686,9 @@
   "VoltAgent/awesome-agent-skills": {
     "tr": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
     "tools": []
+  },
+  "bashalarmistalt/decimen-optical-transfer": {
+    "tr": "—",
+    "tools": []
   }
 }
