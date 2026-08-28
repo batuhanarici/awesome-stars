@@ -690,5 +690,9 @@
   "bashalarmistalt/decimen-optical-transfer": {
     "tr": "—",
     "tools": []
+  },
+  "vorssaintapp/vorssaint-utils": {
+    "tr": "Free and open-source macOS menu bar toolkit.",
+    "tools": []
   }
 }

@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **27 August 2026** &nbsp;|&nbsp; 📦 Toplam: **170 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **28 August 2026** &nbsp;|&nbsp; 📦 Toplam: **171 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -11,7 +11,7 @@
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 7 repo
+- [🖥️ macOS & Desktop Apps](#) — 8 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
 - [🗂️ Diğer](#) — 25 repo
@@ -195,6 +195,7 @@
 | [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance. | `Shell` | — |
 | [shiiraz/clicklight-windows](https://github.com/shiiraz/clicklight-windows) | Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility. | `C#` | — |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. | `Shell` | — |
+| [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | Free and open-source macOS menu bar toolkit. | `Swift` | — |
 
 ---
 
