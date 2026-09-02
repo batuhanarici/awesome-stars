@@ -694,5 +694,9 @@
   "vorssaintapp/vorssaint-utils": {
     "tr": "Free and open-source macOS menu bar toolkit.",
     "tools": []
+  },
+  "career-ops-hq/career-ops": {
+    "tr": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+    "tools": []
   }
 }
