@@ -1,12 +1,12 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **04 September 2026** &nbsp;|&nbsp; 📦 Toplam: **171 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **05 September 2026** &nbsp;|&nbsp; 📦 Toplam: **172 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
 - [🤖 AI & Agents](#) — 72 repo
-- [🎯 Skills & Prompts](#) — 13 repo
+- [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
@@ -110,6 +110,7 @@
 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. | `TypeScript` | — |
 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. | `Python` | — |
 | [greensock/gsap-skills](https://github.com/greensock/gsap-skills) | Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. | `N/A` | — |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. | `TypeScript` | — |
 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | `N/A` | — |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms | `Python` | — |
 | [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) | 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more. | `N/A` | — |
@@ -195,7 +196,7 @@
 | [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance. | `Shell` | — |
 | [shiiraz/clicklight-windows](https://github.com/shiiraz/clicklight-windows) | Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility. | `C#` | — |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. | `Shell` | — |
-| [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) | Free and open-source macOS menu bar toolkit. | `Swift` | — |
+| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open-source macOS menu bar toolkit. | `Swift` | — |
 
 ---
 
