@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **07 September 2026** &nbsp;|&nbsp; 📦 Toplam: **172 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **08 September 2026** &nbsp;|&nbsp; 📦 Toplam: **171 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -13,7 +13,7 @@
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
 - [🖥️ macOS & Desktop Apps](#) — 8 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
-- [🇹🇷 Türkçe Projeler](#) — 8 repo
+- [🇹🇷 Türkçe Projeler](#) — 7 repo
 - [🗂️ Diğer](#) — 25 repo
 
 ---
@@ -222,7 +222,6 @@
 | [CodeByPinar/bakiyedefter-pos](https://github.com/CodeByPinar/bakiyedefter-pos) | Küçük işletmeler için tasarlanmış modern offline-first finansal operasyon platformu. Veresiye, cari hesap, tahsilat ve POS süreçlerini tek merkezde yönetir. | `TypeScript` | — |
 | [Garletz/zikiro-FYR](https://github.com/Garletz/zikiro-FYR) | FYR = For Your Restaurant | `TypeScript` | — |
 | [kemalersin/kurtarma-plani](https://github.com/kemalersin/kurtarma-plani) | Borçları kayıt altına alan, gelir-gider dengesini izleyen ve analiz eden tek dosyalık statik SPA. | `TypeScript` | — |
-| [saidsurucu/yargi-mcp](https://github.com/saidsurucu/yargi-mcp) | MCP Server For Turkish Legal Databases | `Python` | — |
 | [YusufDinanet/MetroFlow](https://github.com/YusufDinanet/MetroFlow) | — | `Python` | — |
 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community | `Python` | — |
 
