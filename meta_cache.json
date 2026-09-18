@@ -706,5 +706,9 @@
   "vorssaint/vorssaint-utils": {
     "tr": "Free and open-source macOS menu bar toolkit.",
     "tools": []
+  },
+  "browser-use/jev-ultrafast": {
+    "tr": "—",
+    "tools": []
   }
 }
