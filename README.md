@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **19 September 2026** &nbsp;|&nbsp; 📦 Toplam: **172 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **20 September 2026** &nbsp;|&nbsp; 📦 Toplam: **172 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -11,10 +11,10 @@
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 8 repo
+- [🖥️ macOS & Desktop Apps](#) — 9 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 7 repo
-- [🗂️ Diğer](#) — 26 repo
+- [🗂️ Diğer](#) — 25 repo
 
 ---
 
@@ -193,6 +193,7 @@
 | [DodoApps/dodopulse](https://github.com/DodoApps/dodopulse) | A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs | `Swift` | — |
 | [Jarvis322/MacWake](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac — an elegant SwiftUI menu bar app for macOS. | `Swift` | — |
 | [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) | Reactor is an experimental set of extensions to WinUI | `C#` | — |
+| [noah-qin/MoleUI](https://github.com/noah-qin/MoleUI) | Native macOS GUI for tw93/Mole, built with SwiftUI | `Shell` | — |
 | [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance. | `Shell` | — |
 | [shiiraz/clicklight-windows](https://github.com/shiiraz/clicklight-windows) | Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility. | `C#` | — |
 | [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. | `Shell` | — |
@@ -249,7 +250,6 @@
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | `TypeScript` | — |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | `Batchfile` | — |
 | [microsoft/JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | `Python` | — |
-| [noah-qin/MoleUI](https://github.com/noah-qin/MoleUI) | Native macOS GUI for tw93/Mole, built with SwiftUI | `Shell` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | `JavaScript` | — |
