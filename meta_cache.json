@@ -718,5 +718,29 @@
   "MoneyPrintLabs/second-self": {
     "tr": "Sifirdan sanal bir insan yaratir: yuz, hayat, aile, rutin. Karakteri kilitler, vesikalik seti cikarir ve BAGLADIGIN gorsel uretim API'sine her seferinde ayni kisiyi uretecek prompt'u gonderir. Kendisi gorsel uretmez. Sifir bagimlilik, yerel calisir.",
     "tools": []
+  },
+  "CompGenomeLab/quiz-pool": {
+    "tr": "—",
+    "tools": []
+  },
+  "murtazahassan/Optical-Mark-Recognition-OPENCV": {
+    "tr": "—",
+    "tools": []
+  },
+  "mozilla/pdf.js": {
+    "tr": "PDF Reader in JavaScript",
+    "tools": []
+  },
+  "fengyuanchen/cropperjs": {
+    "tr": "JavaScript image cropper.",
+    "tools": []
+  },
+  "iamrohitsuthar/Quizller": {
+    "tr": "Quizller is a php based open source web application to create and manage online quiz, test, exam.",
+    "tools": []
+  },
+  "mertcaliskan34/ExamGenerator": {
+    "tr": "AI-powered exam generator that creates intelligent questions from PDF documents using Google Gemini AI. Upload PDFs, configure settings, and generate comprehensive exam questions instantly.",
+    "tools": []
   }
 }
