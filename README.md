@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **26 September 2026** &nbsp;|&nbsp; 📦 Toplam: **178 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **27 September 2026** &nbsp;|&nbsp; 📦 Toplam: **177 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 74 repo
+- [🤖 AI & Agents](#) — 73 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
@@ -60,7 +60,6 @@
 | [mertcaliskan34/ExamGenerator](https://github.com/mertcaliskan34/ExamGenerator) | AI-powered exam generator that creates intelligent questions from PDF documents using Google Gemini AI. Upload PDFs, configure settings, and generate comprehensive exam questions instantly. | `JavaScript` | — |
 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | `Python` | — |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | `Python` | — |
-| [MoneyPrintLabs/second-self](https://github.com/MoneyPrintLabs/second-self) | Sifirdan sanal bir insan yaratir: yuz, hayat, aile, rutin. Karakteri kilitler, vesikalik seti cikarir ve BAGLADIGIN gorsel uretim API'sine her seferinde ayni kisiyi uretecek prompt'u gonderir. Kendisi gorsel uretmez. Sifir bagimlilik, yerel calisir. | `JavaScript` | — |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | `Shell` | — |
 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 | `Python` | — |
 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. | `Jupyter Notebook` | — |
