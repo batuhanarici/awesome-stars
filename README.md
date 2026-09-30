@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **29 September 2026** &nbsp;|&nbsp; 📦 Toplam: **177 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **30 September 2026** &nbsp;|&nbsp; 📦 Toplam: **178 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 9 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 7 repo
-- [🗂️ Diğer](#) — 29 repo
+- [🗂️ Diğer](#) — 30 repo
 
 ---
 
@@ -127,7 +127,7 @@
 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | `JavaScript` | — |
 | [microsoft/coreutils](https://github.com/microsoft/coreutils) | Coreutils for Windows: Installer & Packaging | `Rust` | — |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs. | `TypeScript` | — |
-| [PowerUserZ/OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage) | Track your AI coding subscriptions from the Windows system tray. Session limits, weekly quotas, reset times, all in one place. Free and open source. | `JavaScript` | — |
+| [PowerUserZ/OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage) | Track your AI coding subscriptions from the Windows system tray. Session limits, weekly quotas, reset times, all in one place. Free and open source. | `TypeScript` | — |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? | `Go` | — |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | `HTML` | — |
 | [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. | `Swift` | — |
@@ -256,6 +256,7 @@
 | [microsoft/JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | `Python` | — |
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | `JavaScript` | — |
 | [murtazahassan/Optical-Mark-Recognition-OPENCV](https://github.com/murtazahassan/Optical-Mark-Recognition-OPENCV) | — | `Python` | — |
+| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system | `PLSQL` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | `JavaScript` | — |

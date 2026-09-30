@@ -742,5 +742,9 @@
   "mertcaliskan34/ExamGenerator": {
     "tr": "AI-powered exam generator that creates intelligent questions from PDF documents using Google Gemini AI. Upload PDFs, configure settings, and generate comprehensive exam questions instantly.",
     "tools": []
+  },
+  "NawfalMotii79/PLFM_RADAR": {
+    "tr": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "tools": []
   }
 }
