@@ -746,5 +746,9 @@
   "NawfalMotii79/PLFM_RADAR": {
     "tr": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
     "tools": []
+  },
+  "OffGridPete/Fieldwatch": {
+    "tr": "Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT.",
+    "tools": []
   }
 }
