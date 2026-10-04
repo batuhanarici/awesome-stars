@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **03 October 2026** &nbsp;|&nbsp; 📦 Toplam: **179 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **04 October 2026** &nbsp;|&nbsp; 📦 Toplam: **180 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 9 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 7 repo
-- [🗂️ Diğer](#) — 31 repo
+- [🗂️ Diğer](#) — 32 repo
 
 ---
 
@@ -257,6 +257,7 @@
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | `JavaScript` | — |
 | [murtazahassan/Optical-Mark-Recognition-OPENCV](https://github.com/murtazahassan/Optical-Mark-Recognition-OPENCV) | — | `Python` | — |
 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system | `PLSQL` | — |
+| [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | Self-hosted AI workspace.  | `Python` | — |
 | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. | `Kotlin` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
