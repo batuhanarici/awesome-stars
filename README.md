@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **04 October 2026** &nbsp;|&nbsp; 📦 Toplam: **180 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **05 October 2026** &nbsp;|&nbsp; 📦 Toplam: **181 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 9 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 7 repo
-- [🗂️ Diğer](#) — 32 repo
+- [🗂️ Diğer](#) — 33 repo
 
 ---
 
@@ -70,6 +70,7 @@
 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Personal AI, On Personal Devices | `Python` | — |
 | [openai/gpt-oss](https://github.com/openai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | `Python` | — |
 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3 | `Rust` | — |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. | `Go` | — |
 | [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) | Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support. | `TypeScript` | — |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | `Python` | — |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | `Jupyter Notebook` | — |
@@ -86,7 +87,6 @@
 | [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) | ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. | `TypeScript` | — |
 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN | `Python` | — |
 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally. | `Python` | — |
-| [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) | Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. | `Go` | — |
 | [usestrix/strix](https://github.com/usestrix/strix) | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. | `Python` | — |
 | [video-db/call.md](https://github.com/video-db/call.md) | Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls. | `TypeScript` | — |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. | `N/A` | — |
@@ -141,7 +141,7 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
-| [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) | Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React. | `TypeScript` | — |
+| [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) | Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React. | `Rust` | — |
 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. | `HTML` | — |
 | [localsend/localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | `Dart` | — |
 | [OpenCloudGaming/OpenNOW](https://github.com/OpenCloudGaming/OpenNOW) | Custom GeForce Now Client Named OpenNOW | `Rust` | — |
@@ -250,6 +250,7 @@
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | `Python` | — |
 | [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller) | Quizller is a php based open source web application to create and manage online quiz, test, exam. | `SCSS` | — |
 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | A collection of agent skills that help you build a great interface. | `Markdown` | — |
+| [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | — | `TypeScript` | — |
 | [kiliczsh/llmconfig](https://github.com/kiliczsh/llmconfig) | Config-driven CLI for managing local LLM inference with llama.cpp | `Go` | — |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | `TypeScript` | — |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | `Batchfile` | — |

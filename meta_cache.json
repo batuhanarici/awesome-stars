@@ -758,5 +758,13 @@
   "odysseus-dev/odysseus": {
     "tr": "Self-hosted AI workspace. ",
     "tools": []
+  },
+  "kargulstudio/sales-crm": {
+    "tr": "—",
+    "tools": []
+  },
+  "OrchestratorInc/agent-orchestrator": {
+    "tr": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+    "tools": []
   }
 }
