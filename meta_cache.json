@@ -766,5 +766,13 @@
   "OrchestratorInc/agent-orchestrator": {
     "tr": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
     "tools": []
+  },
+  "mstcvk/MacRAR": {
+    "tr": "WinRAR-style archive manager for macOS: native AppKit app around RARLAB rar/unrar and 7-Zip 7zz. RAR, 7z, ZIP, TAR and 30+ formats, encrypted and multi-volume archives, Finder Quick Actions.",
+    "tools": []
+  },
+  "poweruserz/OpenTokenUsage": {
+    "tr": "Claude Code, Codex, Cursor and Copilot usage limits in the Windows 11 tray: session and weekly limits, resets, pace and alerts. Free and open source.",
+    "tools": []
   }
 }

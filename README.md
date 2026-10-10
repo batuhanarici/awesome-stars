@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **09 October 2026** &nbsp;|&nbsp; 📦 Toplam: **181 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **10 October 2026** &nbsp;|&nbsp; 📦 Toplam: **182 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -11,7 +11,7 @@
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 9 repo
+- [🖥️ macOS & Desktop Apps](#) — 10 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 7 repo
 - [🗂️ Diğer](#) — 33 repo
@@ -127,7 +127,7 @@
 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | `JavaScript` | — |
 | [microsoft/coreutils](https://github.com/microsoft/coreutils) | Coreutils for Windows: Installer & Packaging | `Rust` | — |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs. | `TypeScript` | — |
-| [PowerUserZ/OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage) | Track your AI coding subscriptions from the Windows system tray. Session limits, weekly quotas, reset times, all in one place. Free and open source. | `TypeScript` | — |
+| [poweruserz/OpenTokenUsage](https://github.com/poweruserz/OpenTokenUsage) | Claude Code, Codex, Cursor and Copilot usage limits in the Windows 11 tray: session and weekly limits, resets, pace and alerts. Free and open source. | `TypeScript` | — |
 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Why is this running? | `Go` | — |
 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | `HTML` | — |
 | [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. | `Swift` | — |
@@ -194,6 +194,7 @@
 | [DodoApps/dodopulse](https://github.com/DodoApps/dodopulse) | A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs | `Swift` | — |
 | [Jarvis322/MacWake](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac — an elegant SwiftUI menu bar app for macOS. | `Swift` | — |
 | [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) | Reactor is an experimental set of extensions to WinUI | `C#` | — |
+| [mstcvk/MacRAR](https://github.com/mstcvk/MacRAR) | WinRAR-style archive manager for macOS: native AppKit app around RARLAB rar/unrar and 7-Zip 7zz. RAR, 7z, ZIP, TAR and 30+ formats, encrypted and multi-volume archives, Finder Quick Actions. | `Swift` | — |
 | [noah-qin/MoleUI](https://github.com/noah-qin/MoleUI) | Native macOS GUI for tw93/Mole, built with SwiftUI | `Shell` | — |
 | [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance. | `Shell` | — |
 | [shiiraz/clicklight-windows](https://github.com/shiiraz/clicklight-windows) | Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility. | `C#` | — |
