@@ -1,20 +1,20 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **11 October 2026** &nbsp;|&nbsp; 📦 Toplam: **182 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **12 October 2026** &nbsp;|&nbsp; 📦 Toplam: **188 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 73 repo
+- [🤖 AI & Agents](#) — 74 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 8 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 10 repo
+- [🖥️ macOS & Desktop Apps](#) — 13 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
-- [🇹🇷 Türkçe Projeler](#) — 7 repo
-- [🗂️ Diğer](#) — 33 repo
+- [🇹🇷 Türkçe Projeler](#) — 8 repo
+- [🗂️ Diğer](#) — 34 repo
 
 ---
 
@@ -46,6 +46,7 @@
 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | — | `TypeScript` | — |
 | [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend. | `Python` | — |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | — | `Python` | — |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | `HTML` | — |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | `TypeScript` | — |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | `TypeScript` | — |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | `Python` | — |
@@ -190,11 +191,14 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
+| [1architect/macspace-releases](https://github.com/1architect/macspace-releases) | A modular, free and open source System Data and Apple Intelligence cleaner for macOS. | `Swift` | — |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2. | `Swift` | — |
 | [codybrom/Blankie](https://github.com/codybrom/Blankie) | Ambient sound mixer for macOS inspired by Blanket. Now available on the Mac App Store and via Homebrew. | `Swift` | — |
 | [DodoApps/dodopulse](https://github.com/DodoApps/dodopulse) | A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs | `Swift` | — |
 | [Jarvis322/MacWake](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac — an elegant SwiftUI menu bar app for macOS. | `Swift` | — |
 | [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) | Reactor is an experimental set of extensions to WinUI | `C#` | — |
 | [mstcvk/MacRAR](https://github.com/mstcvk/MacRAR) | WinRAR-style archive manager for macOS: native AppKit app around RARLAB rar/unrar and 7-Zip 7zz. RAR, 7z, ZIP, TAR and 30+ formats, encrypted and multi-volume archives, Finder Quick Actions. | `Swift` | — |
+| [mstcvk/mc-download-manager](https://github.com/mstcvk/mc-download-manager) | Open-source macOS download manager: parallel-connection downloads, Safari & Chrome integration, video downloads via yt-dlp. English & Turkish. | `Swift` | — |
 | [noah-qin/MoleUI](https://github.com/noah-qin/MoleUI) | Native macOS GUI for tw93/Mole, built with SwiftUI | `Shell` | — |
 | [open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | The best Mac apps — fast, lightweight, and bloat-free. No Electron. Curated for Mac power users who care about performance. | `Shell` | — |
 | [shiiraz/clicklight-windows](https://github.com/shiiraz/clicklight-windows) | Windows tray app that highlights your clicks live, for demos, recordings, UX reviews, and clearer click visibility. | `C#` | — |
@@ -225,6 +229,7 @@
 | [CodeByPinar/bakiyedefter-pos](https://github.com/CodeByPinar/bakiyedefter-pos) | Küçük işletmeler için tasarlanmış modern offline-first finansal operasyon platformu. Veresiye, cari hesap, tahsilat ve POS süreçlerini tek merkezde yönetir. | `TypeScript` | — |
 | [Garletz/zikiro-FYR](https://github.com/Garletz/zikiro-FYR) | FYR = For Your Restaurant | `TypeScript` | — |
 | [kemalersin/kurtarma-plani](https://github.com/kemalersin/kurtarma-plani) | Borçları kayıt altına alan, gelir-gider dengesini izleyen ve analiz eden tek dosyalık statik SPA. | `TypeScript` | — |
+| [vibeeval/receptionist](https://github.com/vibeeval/receptionist) | Private source backup of the Apache-2.0 phone receptionist core and Turkish local dashboard. | `TypeScript` | — |
 | [YusufDinanet/MetroFlow](https://github.com/YusufDinanet/MetroFlow) | — | `Python` | — |
 | [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community | `Python` | — |
 
@@ -234,6 +239,7 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) | `Python` | — |
 | [alpunlu12-commits/jarvis](https://github.com/alpunlu12-commits/jarvis) | Jarvis AI Asistan | `N/A` | — |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | `TypeScript` | — |
 | [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) | A suite of plugins for legal workflows | `Python` | — |

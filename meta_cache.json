@@ -774,5 +774,29 @@
   "poweruserz/OpenTokenUsage": {
     "tr": "Claude Code, Codex, Cursor and Copilot usage limits in the Windows 11 tray: session and weekly limits, resets, pace and alerts. Free and open source.",
     "tools": []
+  },
+  "ARahim3/DigUp": {
+    "tr": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "tools": []
+  },
+  "1architect/macspace-releases": {
+    "tr": "A modular, free and open source System Data and Apple Intelligence cleaner for macOS.",
+    "tools": []
+  },
+  "vibeeval/receptionist": {
+    "tr": "Private source backup of the Apache-2.0 phone receptionist core and Turkish local dashboard.",
+    "tools": []
+  },
+  "Alishahryar1/free-claude-code": {
+    "tr": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "tools": []
+  },
+  "f/prompts.chat": {
+    "tr": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+    "tools": []
+  },
+  "mstcvk/mc-download-manager": {
+    "tr": "Open-source macOS download manager: parallel-connection downloads, Safari & Chrome integration, video downloads via yt-dlp. English & Turkish.",
+    "tools": []
   }
 }
