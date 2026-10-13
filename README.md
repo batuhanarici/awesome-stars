@@ -1,20 +1,20 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **12 October 2026** &nbsp;|&nbsp; 📦 Toplam: **188 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **13 October 2026** &nbsp;|&nbsp; 📦 Toplam: **191 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
 - [🤖 AI & Agents](#) — 74 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
-- [📱 Mobile & Cross-Platform](#) — 8 repo
+- [📱 Mobile & Cross-Platform](#) — 9 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 13 repo
+- [🖥️ macOS & Desktop Apps](#) — 14 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 34 repo
+- [🗂️ Diğer](#) — 35 repo
 
 ---
 
@@ -150,6 +150,7 @@
 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | Free, Open Source, Self-Hosted WhatsApp API Gateway | `TypeScript` | — |
 | [webosbrew/dev-manager-desktop](https://github.com/webosbrew/dev-manager-desktop) | Device/DevMode Manager for webOS TV | `TypeScript` | — |
 | [weeeBox/mobile-system-design](https://github.com/weeeBox/mobile-system-design) | A simple framework for mobile system design interviews | `N/A` | — |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. | `Swift` | — |
 
 ---
 
@@ -192,6 +193,7 @@
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
 | [1architect/macspace-releases](https://github.com/1architect/macspace-releases) | A modular, free and open source System Data and Apple Intelligence cleaner for macOS. | `Swift` | — |
+| [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | Speed up downloads by combining multiple network connections in parallel | `TypeScript` | — |
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2. | `Swift` | — |
 | [codybrom/Blankie](https://github.com/codybrom/Blankie) | Ambient sound mixer for macOS inspired by Blanket. Now available on the Mac App Store and via Homebrew. | `Swift` | — |
 | [DodoApps/dodopulse](https://github.com/DodoApps/dodopulse) | A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs | `Swift` | — |
@@ -255,6 +257,7 @@
 | [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) | JavaScript image cropper. | `TypeScript` | — |
 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. | `Rust` | — |
 | [google-research/timesfm](https://github.com/google-research/timesfm) | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. | `Python` | — |
+| [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules. | `JavaScript` | — |
 | [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller) | Quizller is a php based open source web application to create and manage online quiz, test, exam. | `SCSS` | — |
 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | A collection of agent skills that help you build a great interface. | `Markdown` | — |
 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | — | `TypeScript` | — |

@@ -798,5 +798,17 @@
   "mstcvk/mc-download-manager": {
     "tr": "Open-source macOS download manager: parallel-connection downloads, Safari & Chrome integration, video downloads via yt-dlp. English & Turkish.",
     "tools": []
+  },
+  "gr8rstudio/gr8r-studio": {
+    "tr": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules.",
+    "tools": []
+  },
+  "anmolkapil/plexo": {
+    "tr": "Speed up downloads by combining multiple network connections in parallel",
+    "tools": []
+  },
+  "xtool-org/xtool": {
+    "tr": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+    "tools": []
   }
 }
