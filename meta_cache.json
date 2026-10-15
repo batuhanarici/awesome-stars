@@ -810,5 +810,9 @@
   "xtool-org/xtool": {
     "tr": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
     "tools": []
+  },
+  "Jarvis322/macos-sysdata": {
+    "tr": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
+    "tools": []
   }
 }

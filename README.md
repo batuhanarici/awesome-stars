@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **14 October 2026** &nbsp;|&nbsp; 📦 Toplam: **191 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **15 October 2026** &nbsp;|&nbsp; 📦 Toplam: **192 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -11,7 +11,7 @@
 - [📱 Mobile & Cross-Platform](#) — 9 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 9 repo
-- [🖥️ macOS & Desktop Apps](#) — 14 repo
+- [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
 - [🗂️ Diğer](#) — 35 repo
@@ -197,6 +197,7 @@
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2. | `Swift` | — |
 | [codybrom/Blankie](https://github.com/codybrom/Blankie) | Ambient sound mixer for macOS inspired by Blanket. Now available on the Mac App Store and via Homebrew. | `Swift` | — |
 | [DodoApps/dodopulse](https://github.com/DodoApps/dodopulse) | A lightweight, native macOS menu bar app for real-time system monitoring with beautiful mini graphs | `Swift` | — |
+| [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) | See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs. | `Swift` | — |
 | [Jarvis322/MacWake](https://github.com/Jarvis322/MacWake) | Battery health, charge limit and a Dynamic Island for your Mac — an elegant SwiftUI menu bar app for macOS. | `Swift` | — |
 | [microsoft/microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) | Reactor is an experimental set of extensions to WinUI | `C#` | — |
 | [mstcvk/MacRAR](https://github.com/mstcvk/MacRAR) | WinRAR-style archive manager for macOS: native AppKit app around RARLAB rar/unrar and 7-Zip 7zz. RAR, 7z, ZIP, TAR and 30+ formats, encrypted and multi-volume archives, Finder Quick Actions. | `Swift` | — |
