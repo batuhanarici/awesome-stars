@@ -814,5 +814,13 @@
   "Jarvis322/macos-sysdata": {
     "tr": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
     "tools": []
+  },
+  "reason-machines/reason-network": {
+    "tr": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
+    "tools": []
+  },
+  "cheaper-inference/OmniRoute": {
+    "tr": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+    "tools": []
   }
 }
