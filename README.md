@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **27 October 2026** &nbsp;|&nbsp; 📦 Toplam: **193 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **28 October 2026** &nbsp;|&nbsp; 📦 Toplam: **195 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 77 repo
+- [🤖 AI & Agents](#) — 78 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 9 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 33 repo
+- [🗂️ Diğer](#) — 34 repo
 
 ---
 
@@ -76,6 +76,7 @@
 | [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) | Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support. | `TypeScript` | — |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | `Python` | — |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | `Jupyter Notebook` | — |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | `Rust` | — |
 | [rcnsnr/job-search-workflow](https://github.com/rcnsnr/job-search-workflow) | AI-assisted, local-first job search workflow framework — triage, scoring, application tracking | `JavaScript` | — |
 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`. | `Rust` | — |
 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | Desktop app to manage markdown knowledge bases | `TypeScript` | — |
@@ -263,6 +264,7 @@
 | [gr8rstudio/gr8r-studio](https://github.com/gr8rstudio/gr8r-studio) | Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules. | `JavaScript` | — |
 | [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller) | Quizller is a php based open source web application to create and manage online quiz, test, exam. | `SCSS` | — |
 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | A collection of agent skills that help you build a great interface. | `Markdown` | — |
+| [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) | — | `TypeScript` | — |
 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | — | `TypeScript` | — |
 | [kiliczsh/llmconfig](https://github.com/kiliczsh/llmconfig) | Config-driven CLI for managing local LLM inference with llama.cpp | `Go` | — |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | `TypeScript` | — |
@@ -271,11 +273,11 @@
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | `JavaScript` | — |
 | [murtazahassan/Optical-Mark-Recognition-OPENCV](https://github.com/murtazahassan/Optical-Mark-Recognition-OPENCV) | — | `Python` | — |
 | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system | `PLSQL` | — |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. | `CSS` | — |
 | [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) | Self-hosted AI workspace.  | `Python` | — |
 | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. | `Kotlin` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design language that makes your AI harness better at design. | `Rust` | — |
 | [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) | 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease. | `Python` | — |
 | [yetone/cumora](https://github.com/yetone/cumora) | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. | `TypeScript` | — |
 

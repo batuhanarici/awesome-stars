@@ -822,5 +822,13 @@
   "cheaper-inference/OmniRoute": {
     "tr": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
     "tools": []
+  },
+  "Nutlope/hallmark": {
+    "tr": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "tools": []
+  },
+  "kargulstudio/calender-app-design": {
+    "tr": "—",
+    "tools": []
   }
 }
