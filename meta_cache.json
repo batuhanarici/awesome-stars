@@ -830,5 +830,9 @@
   "kargulstudio/calender-app-design": {
     "tr": "—",
     "tools": []
+  },
+  "Shahfarzane/opencode-mobile": {
+    "tr": "Native iOS app for OpenCode AI coding agent — built with Expo & React Native. Real-time streaming, QR pairing, Face ID, terminal access, and git ops from your phone.",
+    "tools": []
   }
 }
