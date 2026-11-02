@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **01 November 2026** &nbsp;|&nbsp; 📦 Toplam: **196 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **02 November 2026** &nbsp;|&nbsp; 📦 Toplam: **197 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 34 repo
+- [🗂️ Diğer](#) — 35 repo
 
 ---
 
@@ -47,7 +47,7 @@
 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | — | `TypeScript` | — |
 | [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend. | `Python` | — |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | — | `Python` | — |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | `HTML` | — |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | `MDX` | — |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | `TypeScript` | — |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | `TypeScript` | — |
 | [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with Spec-Driven Development | `Python` | — |
@@ -279,6 +279,7 @@
 | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. | `Kotlin` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
+| [selmakcby/ajan-ofisi](https://github.com/selmakcby/ajan-ofisi) | 3D kedi ofisi: Claude Code ajanlarını tek ekranda izle. İş gelince uyanır, boşta 0 token. | `HTML` | — |
 | [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) | 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease. | `Python` | — |
 | [yetone/cumora](https://github.com/yetone/cumora) | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. | `TypeScript` | — |
 

@@ -834,5 +834,9 @@
   "Shahfarzane/opencode-mobile": {
     "tr": "Native iOS app for OpenCode AI coding agent — built with Expo & React Native. Real-time streaming, QR pairing, Face ID, terminal access, and git ops from your phone.",
     "tools": []
+  },
+  "selmakcby/ajan-ofisi": {
+    "tr": "3D kedi ofisi: Claude Code ajanlarını tek ekranda izle. İş gelince uyanır, boşta 0 token.",
+    "tools": []
   }
 }
