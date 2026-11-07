@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **06 November 2026** &nbsp;|&nbsp; 📦 Toplam: **197 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **07 November 2026** &nbsp;|&nbsp; 📦 Toplam: **197 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -72,7 +72,7 @@
 | [open-jarvis/OpenJarvis](https://github.com/open-jarvis/OpenJarvis) | Personal AI, On Personal Devices | `Python` | — |
 | [openai/gpt-oss](https://github.com/openai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | `Python` | — |
 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3 | `Rust` | — |
-| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. | `Go` | — |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. | `TypeScript` | — |
 | [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) | Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support. | `TypeScript` | — |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | `Python` | — |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | `Jupyter Notebook` | — |
