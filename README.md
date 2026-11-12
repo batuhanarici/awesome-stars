@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **11 November 2026** &nbsp;|&nbsp; 📦 Toplam: **198 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **12 November 2026** &nbsp;|&nbsp; 📦 Toplam: **198 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 79 repo
+- [🤖 AI & Agents](#) — 80 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 9 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 36 repo
+- [🗂️ Diğer](#) — 35 repo
 
 ---
 
@@ -43,6 +43,7 @@
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | `JavaScript` | — |
 | [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) | Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook | `Swift` | — |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | `TypeScript` | — |
+| [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | `Markdown` | — |
 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | — | `TypeScript` | — |
 | [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend. | `Python` | — |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | — | `Python` | — |
@@ -72,7 +73,7 @@
 | [openai/gpt-oss](https://github.com/openai/gpt-oss) | gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI | `Python` | — |
 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | A coding agent for open models like Kimi K3 | `Rust` | — |
 | [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. | `Python` | — |
-| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. | `Go` | — |
+| [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) | Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents. | `TypeScript` | — |
 | [ownpilot/OwnPilot](https://github.com/ownpilot/OwnPilot) | Privacy-first personal AI assistant platform with autonomous agents, tool orchestration, and multi-provider support. | `TypeScript` | — |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. | `Python` | — |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | `Jupyter Notebook` | — |
@@ -257,7 +258,6 @@
 | [cloudflare/computer](https://github.com/cloudflare/computer) | Give your agent a computer 👾 | `TypeScript` | — |
 | [CompGenomeLab/quiz-pool](https://github.com/CompGenomeLab/quiz-pool) | — | `Python` | — |
 | [DodoApps/dodotidy](https://github.com/DodoApps/dodotidy) | A native macOS system cleaner and optimization app built with SwiftUI | `Swift` | — |
-| [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Designers and Engineers. | `Markdown` | — |
 | [eticmedya/Vibesecurity](https://github.com/eticmedya/Vibesecurity) | AI-powered security auditing for web and mobile applications. Built for vibe coding workflows with Codex and Claude Code, VibeSecurity reviews your projects, detects vulnerabilities, identifies security risks, and suggests or applies fixes to make AI-generated software safer, more reliable, and production-ready. | `N/A` | — |
 | [fengyuanchen/cropperjs](https://github.com/fengyuanchen/cropperjs) | JavaScript image cropper. | `TypeScript` | — |
 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. | `Rust` | — |
