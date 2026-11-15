@@ -846,5 +846,9 @@
   "heydamir/unslop": {
     "tr": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
     "tools": []
+  },
+  "JenkinWoo/sheeridVerify": {
+    "tr": "—",
+    "tools": []
   }
 }

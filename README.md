@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **14 November 2026** &nbsp;|&nbsp; 📦 Toplam: **198 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **15 November 2026** &nbsp;|&nbsp; 📦 Toplam: **199 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 35 repo
+- [🗂️ Diğer](#) — 36 repo
 
 ---
 
@@ -223,7 +223,7 @@
 | [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) | Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize | `Python` | — |
 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | VSCode theme based off the easemate IDE and Jetbrains islands theme | `Shell` | — |
 | [DontFuckMyCode/dfmc](https://github.com/DontFuckMyCode/dfmc) | — | `Go` | — |
-| [OpenAEC-Foundation/open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) | — | `HTML` | — |
+| [OpenAEC-Foundation/open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) | — | `JavaScript` | — |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks | `Python` | — |
 | [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. | `Rust` | — |
 
@@ -266,6 +266,7 @@
 | [heydamir/unslop](https://github.com/heydamir/unslop) | A Claude skill that turns vibecoded, AI-looking UI into a designed interface | `JavaScript` | — |
 | [iamrohitsuthar/Quizller](https://github.com/iamrohitsuthar/Quizller) | Quizller is a php based open source web application to create and manage online quiz, test, exam. | `SCSS` | — |
 | [jakubkrehel/skills](https://github.com/jakubkrehel/skills) | A collection of agent skills that help you build a great interface. | `Markdown` | — |
+| [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | — | `JavaScript` | — |
 | [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) | — | `TypeScript` | — |
 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | — | `TypeScript` | — |
 | [kiliczsh/llmconfig](https://github.com/kiliczsh/llmconfig) | Config-driven CLI for managing local LLM inference with llama.cpp | `Go` | — |
