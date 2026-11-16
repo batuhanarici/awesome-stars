@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **15 November 2026** &nbsp;|&nbsp; 📦 Toplam: **199 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **16 November 2026** &nbsp;|&nbsp; 📦 Toplam: **202 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 80 repo
+- [🤖 AI & Agents](#) — 81 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 9 repo
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 36 repo
+- [🗂️ Diğer](#) — 38 repo
 
 ---
 
@@ -59,6 +59,7 @@
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | Clone any website with one command using AI coding agents | `TypeScript` | — |
 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | `Python` | — |
 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | `Python` | — |
+| [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | An all-in-one email service platform powered by Cloudflare  \| 基于 Cloudflare 的一站式邮箱服务平台  \| Cloudflare Email 邮箱 Mail | `JavaScript` | — |
 | [mertcaliskan34/ExamGenerator](https://github.com/mertcaliskan34/ExamGenerator) | AI-powered exam generator that creates intelligent questions from PDF documents using Google Gemini AI. Upload PDFs, configure settings, and generate comprehensive exam questions instantly. | `JavaScript` | — |
 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | `Python` | — |
 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | `Python` | — |
@@ -272,6 +273,7 @@
 | [kiliczsh/llmconfig](https://github.com/kiliczsh/llmconfig) | Config-driven CLI for managing local LLM inference with llama.cpp | `Go` | — |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | An Open Source implementation of Notebook LM with more flexibility and features | `TypeScript` | — |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. | `Batchfile` | — |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | `Shell` | — |
 | [microsoft/JARVIS](https://github.com/microsoft/JARVIS) | JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf | `Python` | — |
 | [mozilla/pdf.js](https://github.com/mozilla/pdf.js) | PDF Reader in JavaScript | `JavaScript` | — |
 | [murtazahassan/Optical-Mark-Recognition-OPENCV](https://github.com/murtazahassan/Optical-Mark-Recognition-OPENCV) | — | `Python` | — |
@@ -282,6 +284,7 @@
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
 | [selmakcby/ajan-ofisi](https://github.com/selmakcby/ajan-ofisi) | 3D kedi ofisi: Claude Code ajanlarını tek ekranda izle. İş gelince uyanır, boşta 0 token. | `HTML` | — |
+| [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) | Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup. | `TypeScript` | — |
 | [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) | 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease. | `Python` | — |
 | [yetone/cumora](https://github.com/yetone/cumora) | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. | `TypeScript` | — |
 

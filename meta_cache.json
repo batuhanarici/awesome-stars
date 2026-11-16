@@ -850,5 +850,17 @@
   "JenkinWoo/sheeridVerify": {
     "tr": "—",
     "tools": []
+  },
+  "mattpocock/skills": {
+    "tr": "Skills for Real Engineers. Straight from my .agents directory.",
+    "tools": []
+  },
+  "maillab/cloud-mail": {
+    "tr": "An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail",
+    "tools": []
+  },
+  "shadcn-labs/pdfcn": {
+    "tr": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
+    "tools": []
   }
 }
