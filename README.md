@@ -1,7 +1,7 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **17 November 2026** &nbsp;|&nbsp; 📦 Toplam: **202 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **18 November 2026** &nbsp;|&nbsp; 📦 Toplam: **201 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
@@ -14,7 +14,7 @@
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 38 repo
+- [🗂️ Diğer](#) — 37 repo
 
 ---
 
@@ -285,7 +285,6 @@
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
 | [selmakcby/ajan-ofisi](https://github.com/selmakcby/ajan-ofisi) | 3D kedi ofisi: Claude Code ajanlarını tek ekranda izle. İş gelince uyanır, boşta 0 token. | `HTML` | — |
 | [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) | Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup. | `TypeScript` | — |
-| [ShadowHackrs/gmail-account-creator](https://github.com/ShadowHackrs/gmail-account-creator) | 🚀 Advanced automated Gmail account creation tool with anti-detection, phone verification bypass, 5sim integration, and beautiful modern interface. Create Gmail accounts in bulk with ease. | `Python` | — |
 | [yetone/cumora](https://github.com/yetone/cumora) | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. | `TypeScript` | — |
 
 ---
