@@ -866,5 +866,9 @@
   "bogdan239/uberdesigner-studio": {
     "tr": "—",
     "tools": []
+  },
+  "enmerasoftware/ai-design-check": {
+    "tr": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
+    "tools": []
   }
 }
