@@ -870,5 +870,9 @@
   "enmerasoftware/ai-design-check": {
     "tr": "Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.",
     "tools": []
+  },
+  "huggingface/agents-course": {
+    "tr": "This repository contains the Hugging Face Agents Course. ",
+    "tools": []
   }
 }

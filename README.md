@@ -1,11 +1,11 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **24 November 2026** &nbsp;|&nbsp; 📦 Toplam: **203 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **25 November 2026** &nbsp;|&nbsp; 📦 Toplam: **204 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 82 repo
+- [🤖 AI & Agents](#) — 83 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 9 repo
@@ -57,6 +57,7 @@
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | `Python` | — |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. | `Python` | — |
 | [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) | `Python` | — |
+| [huggingface/agents-course](https://github.com/huggingface/agents-course) | This repository contains the Hugging Face Agents Course.  | `MDX` | — |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | Clone any website with one command using AI coding agents | `TypeScript` | — |
 | [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) | 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills | `Python` | — |
 | [langgenius/dify](https://github.com/langgenius/dify) | Production-ready platform for agentic workflow development. | `Python` | — |
