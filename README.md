@@ -1,16 +1,16 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **26 November 2026** &nbsp;|&nbsp; 📦 Toplam: **204 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **27 November 2026** &nbsp;|&nbsp; 📦 Toplam: **206 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
-- [🤖 AI & Agents](#) — 83 repo
+- [🤖 AI & Agents](#) — 84 repo
 - [🎯 Skills & Prompts](#) — 14 repo
 - [🔧 Dev Tools & CLI](#) — 11 repo
 - [📱 Mobile & Cross-Platform](#) — 9 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
-- [📋 Prodüktivite & Self-Hosted](#) — 9 repo
+- [📋 Prodüktivite & Self-Hosted](#) — 10 repo
 - [🖥️ macOS & Desktop Apps](#) — 15 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
@@ -48,6 +48,7 @@
 | [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check) | Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish. | `HTML` | — |
 | [EpicStaff/EpicStaff](https://github.com/EpicStaff/EpicStaff) | Source-available, self-hosted platform for building AI agent flows - visual editor over a Django backend. | `Python` | — |
 | [ersinkoc/project-bootstrap](https://github.com/ersinkoc/project-bootstrap) | — | `Python` | — |
+| [f/family-migration-story](https://github.com/f/family-migration-story) | Soy ağacından kaynaklı aile tarihi raporu ve Türkçe seslendirmeli göç haritası videosu üreten Claude Code skill'i | `Python` | — |
 | [f/prompts.chat](https://github.com/f/prompts.chat) | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. | `MDX` | — |
 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | The API to search, scrape, and interact with the web at scale. 🔥 | `TypeScript` | — |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA | `TypeScript` | — |
@@ -185,6 +186,7 @@
 
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
+| [coollabsio/coolify](https://github.com/coollabsio/coolify) | An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers. | `PHP` | — |
 | [Lifeforge-app/lifeforge](https://github.com/Lifeforge-app/lifeforge) | A self-hosted solution to streamline and organize all aspects of your life. | `TypeScript` | — |
 | [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | `TypeScript` | — |
 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. | `Java` | — |
