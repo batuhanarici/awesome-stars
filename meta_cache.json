@@ -882,5 +882,17 @@
   "f/family-migration-story": {
     "tr": "Soy ağacından kaynaklı aile tarihi raporu ve Türkçe seslendirmeli göç haritası videosu üreten Claude Code skill'i",
     "tools": []
+  },
+  "run-llama/liteparse": {
+    "tr": "A fast, helpful, and open-source document parser",
+    "tools": []
+  },
+  "FortoGraphy/prism-download-manager": {
+    "tr": "Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume.",
+    "tools": []
+  },
+  "alztrk/opentaskbar": {
+    "tr": "Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11",
+    "tools": []
   }
 }

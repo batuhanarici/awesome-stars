@@ -1,20 +1,20 @@
 # ⭐ awesome-stars
 
 > **batuhanarici** tarafından yıldızlanan GitHub repoları — kategorilere göre otomatik düzenlenmiş
-> 🕐 Son güncelleme: **27 November 2026** &nbsp;|&nbsp; 📦 Toplam: **206 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
+> 🕐 Son güncelleme: **28 November 2026** &nbsp;|&nbsp; 📦 Toplam: **209 repo** &nbsp;|&nbsp; 🗂️ Kategori: **10**
 
 ## İçindekiler
 
 - [🤖 AI & Agents](#) — 84 repo
 - [🎯 Skills & Prompts](#) — 14 repo
-- [🔧 Dev Tools & CLI](#) — 11 repo
+- [🔧 Dev Tools & CLI](#) — 12 repo
 - [📱 Mobile & Cross-Platform](#) — 9 repo
 - [🎵 Medya, Ses & Video](#) — 11 repo
 - [📋 Prodüktivite & Self-Hosted](#) — 10 repo
-- [🖥️ macOS & Desktop Apps](#) — 15 repo
+- [🖥️ macOS & Desktop Apps](#) — 16 repo
 - [⚙️ Yazılım Geliştirme & Güvenlik](#) — 6 repo
 - [🇹🇷 Türkçe Projeler](#) — 8 repo
-- [🗂️ Diğer](#) — 38 repo
+- [🗂️ Diğer](#) — 39 repo
 
 ---
 
@@ -135,6 +135,7 @@
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
 | [ersinkoc/FluidFlow](https://github.com/ersinkoc/FluidFlow) | Sketch to App | `TypeScript` | — |
+| [FortoGraphy/prism-download-manager](https://github.com/FortoGraphy/prism-download-manager) | Free, open-source IDM alternative for Windows, macOS and Linux — up to 32 connections, browser integration, video & MP3 downloads, torrents, crash-safe resume. | `Rust` | — |
 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | `JavaScript` | — |
 | [microsoft/coreutils](https://github.com/microsoft/coreutils) | Coreutils for Windows: Installer & Packaging | `Rust` | — |
 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs. | `TypeScript` | — |
@@ -204,6 +205,7 @@
 | Repo | Açıklama | Dil | Araçlar |
 |------|----------|-----|---------|
 | [1architect/macspace-releases](https://github.com/1architect/macspace-releases) | A modular, free and open source System Data and Apple Intelligence cleaner for macOS. | `Swift` | — |
+| [alztrk/opentaskbar](https://github.com/alztrk/opentaskbar) | Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11 | `Rust` | — |
 | [anmolkapil/plexo](https://github.com/anmolkapil/plexo) | Speed up downloads by combining multiple network connections in parallel | `TypeScript` | — |
 | [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2. | `Swift` | — |
 | [codybrom/Blankie](https://github.com/codybrom/Blankie) | Ambient sound mixer for macOS inspired by Blanket. Now available on the Mac App Store and via Homebrew. | `Swift` | — |
@@ -288,6 +290,7 @@
 | [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch) | Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. | `Kotlin` | — |
 | [onurravli/altab](https://github.com/onurravli/altab) | A premium, lightweight window switcher for macOS. | `Swift` | — |
 | [onurravli/resume](https://github.com/onurravli/resume) | This repository contains my resume in LaTeX. Every time a push is made, the PDF is built and committed to the repository by GitHub Actions, and to my personal website. | `TeX` | — |
+| [run-llama/liteparse](https://github.com/run-llama/liteparse) | A fast, helpful, and open-source document parser | `Rust` | — |
 | [selmakcby/ajan-ofisi](https://github.com/selmakcby/ajan-ofisi) | 3D kedi ofisi: Claude Code ajanlarını tek ekranda izle. İş gelince uyanır, boşta 0 token. | `HTML` | — |
 | [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) | Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup. | `TypeScript` | — |
 | [yetone/cumora](https://github.com/yetone/cumora) | Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains. | `TypeScript` | — |
